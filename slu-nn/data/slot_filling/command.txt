@@ -1,0 +1,4288 @@
+不 看 这个
+d v r
+O O O
+EXIT
+我 不要 看 这个
+r d v r
+O O O O
+EXIT
+我 不 想 看 这个
+r d v v r
+O O O O O
+EXIT
+我 不 看 这个
+r d v r
+O O O O
+EXIT
+我 不 看
+r d v
+O O O
+EXIT
+我 不 想 看
+r d v v
+O O O O
+EXIT
+这个 我 不 想 再 看 了
+r r d v d v y
+O O O O O O O
+EXIT
+不 想 再 看 了
+d v d v y
+O O O O O
+EXIT
+这个 太 难看 了 不 看 这个
+r d a u d v r
+O O O O O O O
+EXIT
+这个 不 好看
+r d a
+O O O
+EXIT
+不 看 不 看
+d v d v
+O O O O
+EXIT
+不 想 看 这个
+d v v r
+O O O O
+EXIT
+不要
+d
+O
+EXIT
+不 要 不 要
+d v d v
+O O O O
+EXIT
+没有 其他 的 了 吗
+v r u y y
+O O O O O
+NEXT_SEARCH
+还有 没 有 其他 的
+v d v r u
+O O O O O
+NEXT_SEARCH
+不 看 这些
+d v r
+O O O
+EXIT
+不 看 这 一 集
+d v r m q
+O O O O O
+BACK
+这 一 集 不 看
+r m q d v
+O O O O O
+BACK
+这 一 季 不 看
+r m ng d v
+O O O O O
+BACK
+这个 不 适合 小朋友 看
+r d v n v
+O O O O O
+EXIT
+不 能 放 这个
+d v v r
+O O O O
+EXIT
+我 累 了
+r a y
+O O O
+EXIT
+我 想 休息 了
+r v v y
+O O O O
+EXIT
+太 累 了
+d a y
+O O O
+EXIT
+结束
+v
+O
+EXIT
+再见
+v
+O
+EXIT
+我 不要 看 这个 了
+r d v r y
+O O O O O
+EXIT
+不 想 看 了
+d v v y
+O O O O
+EXIT
+我 不 想 看 了
+r d v v y
+O O O O O
+EXIT
+我 不要 看 了
+r d v y
+O O O O
+EXIT
+我 不 想 看 这个 了
+r d v v r y
+O O O O O O
+EXIT
+我 不 想 看 这些
+r d v v r
+O O O O O
+EXIT
+我 不要 看 这些 了
+r d v r y
+O O O O O
+EXIT
+退出
+v
+O
+EXIT
+返回
+v
+O
+BACK
+返回 上 一级
+v f b
+O O O
+BACK
+帮 我 返回 上 一级
+v r v f b
+O O O O O
+BACK
+我 要 返回
+r v v
+O O O
+BACK
+立刻 返回
+d v
+O O
+BACK
+立即 返回
+d v
+O O
+BACK
+返回 吧
+v y
+O O
+BACK
+退出 吧
+v y
+O O
+EXIT
+我 不 想 再 看 了
+r d v d v y
+O O O O O O
+EXIT
+我 不 想 再 看 这个 了
+r d v d v r y
+O O O O O O O
+EXIT
+这个 不要看
+r n
+O O
+EXIT
+这个 不 想 看
+r d v v
+O O O O
+EXIT
+这个 不 想 看 了
+r d v v y
+O O O O O
+EXIT
+这 集 不 想 看 了
+r q d v v y
+O O O O O O
+BACK
+这 集 不 好看
+r q d a
+O O O O
+BACK
+这 集 我 不要 看 了
+r vg r d v y
+O O O O O O
+BACK
+退出 播放
+v v
+O O
+BACK
+退出 播放 吧
+v v y
+O O O
+BACK
+不要 再 放 这 集 了
+d d v r vg y
+O O O O O O
+BACK
+我 不 要 再 看 这 一 集 了
+r d v d v r m vg y
+O O O O O O O O O
+BACK
+我 不 想 看 这 集 了
+r d v v r vg y
+O O O O O O O
+BACK
+我 不 要 再 看 这 集
+r d v d v r q
+O O O O O O O
+BACK
+退出 播放 这 一 集
+v v r m q
+O O O NUM O
+BACK
+返回 上次 搜索
+v t v
+O O O
+BACK
+关闭
+v
+O
+EXIT
+我 累 了 不 看 了
+r a u d v y
+O O O O O O
+EXIT
+不 看
+d v
+O O
+EXIT
+不 要 了
+d v y
+O O O
+EXIT
+不 好看
+d a
+O O
+EXIT
+这个 真 不 好看
+r d d a
+O O O O
+EXIT
+这个 真心 难看
+r n a
+O O O
+EXIT
+太 难看 了
+d a y
+O O O
+EXIT
+太 不 好看 不 要 看 了
+d d a d v v y
+O O O O O O O
+EXIT
+这些 不要
+r d
+O O
+EXIT
+我 不 要 这些
+r d v r
+O O O O
+EXIT
+我 不 看 这些
+r d v r
+O O O O
+EXIT
+这些 我 不 看
+r r d v
+O O O O
+EXIT
+这些 我 不 想 看
+r r d v v
+O O O O O
+EXIT
+我 不要 推荐 的 这些
+r d v u r
+O O O O O
+EXIT
+我 不 要 不 要
+r d v d v
+O O O O O
+EXIT
+不 想 看 不 想 看
+d v v d v v
+O O O O O O
+EXIT
+不 要 不 要 看
+d v d v v
+O O O O O
+EXIT
+换 一些
+v m
+O O
+NEXT_SEARCH
+重新 找 一下
+d v m
+O O O
+NEXT_SEARCH
+换 其他 的
+v r u
+O O O
+NEXT_SEARCH
+有 没 有 其他 的
+v d v r u
+O O O O O
+NEXT_SEARCH
+有 没 有 其他 的 推荐
+v d v r u vn
+O O O O O O
+NEXT_SEARCH
+再 找 点 其他 的 吧
+d v q r u y
+O O O O O O
+NEXT_SEARCH
+不 能 推荐 点 其他 的 吗
+d v v q r u y
+O O O O O O O
+NEXT_SEARCH
+推荐 点 其他 的
+v q r u
+O O O O
+NEXT_SEARCH
+换 一 拨
+v m q
+O O O
+NEXT_SEARCH
+下一页
+n
+O
+NEXT_PAGE
+重新 搜 一些
+d v m
+O O O
+NEXT_SEARCH
+重新 搜
+d v
+O O
+NEXT_SEARCH
+帮 我 重新 搜索 一点
+v r d v m
+O O O O O
+NEXT_SEARCH
+给 我 重新 找
+p r d v
+O O O O
+NEXT_SEARCH
+再 推荐 点 其他 的
+d v q r u
+O O O O O
+NEXT_SEARCH
+换 一 页
+v m q
+O O O
+NEXT_PAGE
+没有 其他 类似 的 吗
+v r a u y
+O O O O O
+NEXT_SEARCH
+有 没 有 其他 的 呢
+v d v r u y
+O O O O O O
+NEXT_SEARCH
+还 能 不 能 找 点 其他 的
+d v d v v n r u
+O O O O O O O O
+NEXT_SEARCH
+能 不 能 再 找找
+v d v d v
+O O O O O
+NEXT_SEARCH
+再 找找
+d v
+O O
+NEXT_SEARCH
+再 找 一些
+d v m
+O O O
+NEXT_SEARCH
+再 找 一下
+d v m
+O O O
+NEXT_SEARCH
+再 找找看
+d v
+O O
+NEXT_SEARCH
+这些 我 看 过 了
+r r v u y
+O O O O O
+NEXT_SEARCH
+我 看 过 了
+r v u y
+O O O O
+NEXT_SEARCH
+这个 我 看 过 了
+r r v u y
+O O O O O
+NEXT_SEARCH
+我 看 过 这个 了
+r v u r y
+O O O O O
+NEXT_SEARCH
+这个 我 已经 看 了
+r r d v y
+O O O O O
+NEXT_SEARCH
+这个 播放 过 了
+r v u y
+O O O O
+NEXT_SEARCH
+这个 我 才 看 过 了
+r r d v u y
+O O O O O O
+NEXT_SEARCH
+这些 我 都 看 了
+r r d v y
+O O O O O
+NEXT_SEARCH
+这些 我 都 看 过 了
+r r d v u y
+O O O O O O
+NEXT_SEARCH
+这些 我 已经 看 过 了
+r r d v u y
+O O O O O O
+NEXT_SEARCH
+我 看 过 了 啊
+r v u u y
+O O O O O
+NEXT_SEARCH
+推荐 的 这些 我 都 看 过
+v u r r d v u
+O O O O O O O
+NEXT_SEARCH
+求 再 找 点 其他 的
+v d v q r u
+O O O O O O
+NEXT_SEARCH
+就 没有 其他 的 吗
+d v r u y
+O O O O O
+NEXT_SEARCH
+没有 类似 的 了 吗
+d a u y y
+O O O O O
+NEXT_SEARCH
+换
+v
+O
+NEXT_SEARCH
+换换
+v
+O
+NEXT_SEARCH
+重 搜
+d v
+O O
+NEXT_SEARCH
+重 找
+d v
+O O
+NEXT_SEARCH
+再 推荐 一些
+d v m
+O O O
+NEXT_SEARCH
+重新 推荐 一些
+d v m
+O O O
+NEXT_SEARCH
+再 帮 我 推荐 一些
+d v r v m
+O O O O O
+NEXT_SEARCH
+帮 我 重新 找 点
+v r d v n
+O O O O O
+NEXT_SEARCH
+重新 推荐 点
+d v n
+O O O
+NEXT_SEARCH
+高清 模式
+n n
+RESOLUTION O
+SET_RESOLUTION
+流畅 模式
+a n
+RESOLUTION O
+SET_RESOLUTION
+蓝光
+n
+RESOLUTION
+SET_RESOLUTION
+蓝光 模式
+n n
+RESOLUTION O
+SET_RESOLUTION
+720p
+nz
+RESOLUTION
+SET_RESOLUTION
+1080p
+nx
+RESOLUTION
+SET_RESOLUTION
+清晰度 换 成 蓝 光 1080p
+n v v a n nx
+O O O RESOLUTION RESOLUTION RESOLUTION
+SET_RESOLUTION
+切 到 最 高 清晰度
+v p d a n
+O O MAX MAX O
+SET_RESOLUTION
+最 低 清晰度
+d a n
+MIN MIN O
+SET_RESOLUTION
+我 想 换 成 最 高 的 清晰度
+r v v v d a u n
+O O O O MAX MAX O O
+SET_RESOLUTION
+我 想 换 成 最 低 清晰度
+r v v v d a n
+O O O O MIN MIN O
+SET_RESOLUTION
+我 想 要 最 高 分辨率
+r v v d a n
+O O O MAX MAX O
+SET_RESOLUTION
+我 想 要 最 流畅 的 清晰度
+r v v d a u n
+O O O O O RESOLUTION O
+SET_RESOLUTION
+切 标清
+d n
+O RESOLUTION
+SET_RESOLUTION
+切 1080p
+d nx
+O RESOLUTION
+SET_RESOLUTION
+切 流畅
+d a
+O RESOLUTION
+SET_RESOLUTION
+切换 高清 的
+v n u
+O RESOLUTION O
+SET_RESOLUTION
+我 想 看 高 清 的
+r v v a tg u
+O O O RESOLUTION RESOLUTION O
+SET_RESOLUTION
+我 想 看 720p 的
+r v v nz u
+O O O RESOLUTION O
+SET_RESOLUTION
+有 没 有 720p 的 换 一下
+v d v nz u v m
+O O O RESOLUTION O O O
+SET_RESOLUTION
+有 没 有 1080p 的
+v d v nx u
+O O O RESOLUTION O
+SET_RESOLUTION
+换 成 720p 的
+v v nz u
+O O RESOLUTION O
+SET_RESOLUTION
+换 成 高清 的
+v v n u
+O O RESOLUTION O
+SET_RESOLUTION
+换 成 标清 的
+v v n u
+O O RESOLUTION O
+SET_RESOLUTION
+换 成 流畅 的
+v v a u
+O O RESOLUTION O
+SET_RESOLUTION
+清晰度 换 成 流畅 的
+n v v a u
+O O O RESOLUTION O
+SET_RESOLUTION
+清晰度 换 成 1080p 的
+n v v nx u
+O O O RESOLUTION O
+SET_RESOLUTION
+切换 成 蓝光 的
+v v n u
+O O RESOLUTION O
+SET_RESOLUTION
+切换 720p
+v nz
+O RESOLUTION
+SET_RESOLUTION
+切 成 极速 模式
+d v n n
+O O RESOLUTION O
+SET_RESOLUTION
+我 想 看 最 清晰 的
+r v v d a u
+O O O MAX MAX O
+SET_RESOLUTION
+我 想 看 720p 版本 的
+r v v nz n u
+O O O RESOLUTION O O
+SET_RESOLUTION
+我 想 看 蓝光 版
+r v v n n
+O O O RESOLUTION O
+SET_RESOLUTION
+切 成 1080p版
+d v l
+O O RESOLUTION
+SET_RESOLUTION
+换 成 流畅版
+v v n
+O O RESOLUTION
+SET_RESOLUTION
+蓝光 版
+n n
+RESOLUTION O
+SET_RESOLUTION
+1080p版
+l
+RESOLUTION
+SET_RESOLUTION
+有 没 有 720p 版
+v d v nz n
+O O O RESOLUTION O
+SET_RESOLUTION
+帮 我 切换 成 720p 清晰度 的
+v r v v nz n u
+O O O O RESOLUTION O O
+SET_RESOLUTION
+帮 我 换 成 1080p 分辨率
+v r v v nx n
+O O O O RESOLUTION O
+SET_RESOLUTION
+有 没 有 高清版 的
+v d v n u
+O O O RESOLUTION O
+SET_RESOLUTION
+有 没 有 超清 的
+v d v n u
+O O O RESOLUTION O
+SET_RESOLUTION
+有 没 有 超清版 的
+v d v n u
+O O O RESOLUTION O
+SET_RESOLUTION
+有 没 有 720p 版 的
+v d v nz n u
+O O O RESOLUTION O O
+SET_RESOLUTION
+有没有 流畅 版本
+v a n
+O RESOLUTION O
+SET_RESOLUTION
+有 没 有 蓝光 版
+v d v n n
+O O O RESOLUTION O
+SET_RESOLUTION
+我 想 看 高清版
+r v v n
+O O O RESOLUTION
+SET_RESOLUTION
+我 要 720p 版
+r v nz n
+O O RESOLUTION O
+SET_RESOLUTION
+切 到 超清版
+v v n
+O O RESOLUTION
+SET_RESOLUTION
+我 要 蓝光 版本 的
+r v n n u
+O O RESOLUTION O O
+SET_RESOLUTION
+帮 我 切 成 蓝光 版
+v r v v n n
+O O O O RESOLUTION O
+SET_RESOLUTION
+帮 我 切换 到 高清版
+v r v v n
+O O O O RESOLUTION
+SET_RESOLUTION
+帮 我 切换 到 流畅版
+v r v v n
+O O O O RESOLUTION
+SET_RESOLUTION
+帮 我 切 到 超清版
+v r v v n
+O O O O RESOLUTION
+SET_RESOLUTION
+我 要 看 最 清晰 的 版本
+r v v d a u n
+O O O MAX MAX O O
+SET_RESOLUTION
+我 要 最 流畅 的 版本
+r v d a u n
+O O MIN MIN O O
+SET_RESOLUTION
+我 想 切换 到 1080p
+r v v v nx
+O O O O RESOLUTION
+SET_RESOLUTION
+小 鹿 帮 我 切 到 1080p
+a n v r v v nx
+O O O O O O RESOLUTION
+SET_RESOLUTION
+小 鹿 我 想 要 720p 版
+a n r v v nz n
+O O O O O RESOLUTION O
+SET_RESOLUTION
+可以 换 成 720p 吗
+v v v nz y
+O O O RESOLUTION O
+SET_RESOLUTION
+可以 换 成 高清 模式 吗
+v v v n n y
+O O O RESOLUTION O O
+SET_RESOLUTION
+可以 换 1080p 吗
+v v nx y
+O O RESOLUTION O
+SET_RESOLUTION
+可以 帮 我 换 到 1080p 吗
+v v r v p nx y
+O O O O O RESOLUTION O
+SET_RESOLUTION
+帮 我 换 到 流畅 模式
+v r v p a n
+O O O O RESOLUTION O
+SET_RESOLUTION
+帮 我 换 成 急速 模式
+v r v v z n
+O O O O RESOLUTION O
+SET_RESOLUTION
+有 高清 版本 吗
+v n n y
+O RESOLUTION O O
+SET_RESOLUTION
+有 1080p 的 吗
+v nx u y
+O RESOLUTION O O
+SET_RESOLUTION
+有 蓝光 版本 吗
+v n n y
+O RESOLUTION O O
+SET_RESOLUTION
+有 超清版 吗
+v n y
+O RESOLUTION O
+SET_RESOLUTION
+切换 清晰度 到 超清
+v n v n
+O O O RESOLUTION
+SET_RESOLUTION
+切换 到 超清 分辨率
+v p n n
+O O RESOLUTION O
+SET_RESOLUTION
+我 想 看 超清 的
+r v v n u
+O O O RESOLUTION O
+SET_RESOLUTION
+超清
+n
+RESOLUTION
+SET_RESOLUTION
+超清版
+n
+RESOLUTION
+SET_RESOLUTION
+超清 版本
+n n
+RESOLUTION O
+SET_RESOLUTION
+超清 分辨率
+n n
+RESOLUTION O
+SET_RESOLUTION
+标清
+n
+RESOLUTION
+SET_RESOLUTION
+标清版
+n
+RESOLUTION
+SET_RESOLUTION
+标清 版本
+n n
+RESOLUTION O
+SET_RESOLUTION
+标清 分辨率
+n n
+RESOLUTION O
+SET_RESOLUTION
+普 清
+ag tg
+RESOLUTION RESOLUTION
+SET_RESOLUTION
+普清版
+n
+RESOLUTION
+SET_RESOLUTION
+切换 到 标清
+v v n
+O O RESOLUTION
+SET_RESOLUTION
+切 普 清
+v ag tg
+O RESOLUTION RESOLUTION
+SET_RESOLUTION
+切换 到 普 清
+v p ag tg
+O O RESOLUTION RESOLUTION
+SET_RESOLUTION
+切 720p
+d nz
+O RESOLUTION
+SET_RESOLUTION
+调 到 最 低 清晰度
+v v d a n
+O O MIN MIN O
+SET_RESOLUTION
+调 到 最 低 分辨率
+v v d a n
+O O MIN MIN O
+SET_RESOLUTION
+调 到 最 高 清晰度
+v v d a n
+O O MAX MAX O
+SET_RESOLUTION
+调 到 最 高 分辨率
+v v d a n
+O O MAX MAX O
+SET_RESOLUTION
+换 到 极速 模式
+v p n n
+O O RESOLUTION O
+SET_RESOLUTION
+有 没 有 4k 分辨率
+v d v nx n
+O O O RESOLUTION O
+SET_RESOLUTION
+切 到 4k 分辨率
+v p nx n
+O O RESOLUTION O
+SET_RESOLUTION
+切 到 全 高清 分辨率
+d v a n n
+O O RESOLUTION RESOLUTION O
+SET_RESOLUTION
+调 到 全 高清
+v v a n
+O O RESOLUTION RESOLUTION
+SET_RESOLUTION
+换 成 1080p
+v v nx
+O O RESOLUTION
+SET_RESOLUTION
+降低 清晰度
+v n
+O O
+DEC_RESOLUTION
+调 低 分辨率
+v a n
+O O O
+DEC_RESOLUTION
+把 清晰度 调低
+p n v
+O O O
+DEC_RESOLUTION
+把 分辨率 调低
+p n v
+O O O
+DEC_RESOLUTION
+换 流畅 点 的 分辨率
+v a n u n
+O RESOLUTION O O O
+DEC_RESOLUTION
+换 个 不 卡 的 分辨率
+v q d v u n
+O O O O O O
+DEC_RESOLUTION
+切 个 流畅 点 的 清晰度
+v q a n u n
+O O RESOLUTION O O O
+DEC_RESOLUTION
+流畅 点
+a n
+RESOLUTION O
+DEC_RESOLUTION
+调流 畅 点
+v a n
+O O O
+DEC_RESOLUTION
+请调 低 分辨率
+v a n
+O O O
+DEC_RESOLUTION
+帮 我 调 低 分辨率
+v r v a n
+O O O O O
+DEC_RESOLUTION
+调低 清晰度
+v n
+O O
+DEC_RESOLUTION
+帮 我 把 清晰度 调 低点
+v r p n v n
+O O O O O O
+DEC_RESOLUTION
+能 调 低 清晰度 吗
+v v a n y
+O O O O O
+DEC_RESOLUTION
+我 想 把 清晰度 调 低点
+r v p n v n
+O O O O O O
+DEC_RESOLUTION
+提高 清晰度
+v n
+O O
+INC_RESOLUTION
+调高 分辨率
+v n
+O O
+INC_RESOLUTION
+分辨率 调 高点
+n v n
+O O O
+INC_RESOLUTION
+清晰度 调 高点
+n v n
+O O O
+INC_RESOLUTION
+把 清晰度 调高
+p n v
+O O O
+INC_RESOLUTION
+把 分辨率 调高
+p n v
+O O O
+INC_RESOLUTION
+换 个 好 点 的 清晰度
+v q a n u n
+O O O O O O
+INC_RESOLUTION
+换 个 更 高 的 分辨率
+v q d a u n
+O O O O O O
+INC_RESOLUTION
+清晰 点
+a n
+O O
+INC_RESOLUTION
+调 清晰 点
+v a n
+O O O
+INC_RESOLUTION
+我 想 把 清晰度 调 高点
+r v p n v n
+O O O O O O
+INC_RESOLUTION
+请调 高 分辨率
+v a n
+O O O
+INC_RESOLUTION
+帮 我 调 高 分辨率
+v r v a n
+O O O O O
+INC_RESOLUTION
+调 高 清晰度
+v a n
+O O O
+INC_RESOLUTION
+帮 我 把 清晰度 调 高点
+v r p n v n
+O O O O O O
+INC_RESOLUTION
+能 调 高 清晰度 吗
+v v a n y
+O O O O O
+INC_RESOLUTION
+跳 过 片头
+v u n
+O O OP
+SKIP_PART
+跳 过 片尾
+v u n
+O O ED
+SKIP_PART
+跳 到 正片
+v v n
+O O O
+SKIP_PART
+看 正片
+v n
+O O
+SKIP_PART
+跳 到 下 一 集
+v p f m q
+O O O NUM O
+NEXT_EPISODE
+跳 过 片头 歌曲
+v u n n
+O O OP O
+SKIP_PART
+跳 过 片头 歌
+v u n n
+O O OP O
+SKIP_PART
+跳 过 片头曲
+v u n
+O O OP
+SKIP_PART
+跳 过 片尾曲
+v u n
+O O ED
+SKIP_PART
+跳 过 片尾 歌曲
+v u n n
+O O ED O
+SKIP_PART
+跳 过 片尾 字幕
+v u n n
+O O ED O
+SKIP_PART
+跳过
+v
+O
+SKIP_PART
+第 二十 集
+m m vg
+NUM NUM O
+SET_EPISODE
+第 五十 集
+m m vg
+NUM NUM O
+SET_EPISODE
+快 进 三 分钟
+d v m q
+O O NUM MINUTE
+FASTFORWARD_TIME
+退出
+v
+O
+EXIT
+下 一 集
+f m q
+O NUM O
+NEXT_EPISODE
+继续 播放
+v v
+O O
+RESUME_PLAY
+继续
+v
+O
+RESUME_PLAY
+第 一 个
+m m q
+NUM NUM O
+SET_INDEX
+静音
+n
+O
+MUTE_VOLUME
+音量 调 到 一半
+n v v m
+O O O NUM
+SET_VOLUME
+最后 一 集
+f m q
+LAST NUM O
+SET_EPISODE
+声音 调 到 三分之一
+n v v m
+O O O NUM
+SET_VOLUME
+快 进 到 四 分钟
+d v p m q
+O O O NUM MINUTE
+SET_TIME
+声音 调 到 一半
+n v v m
+O O O NUM
+SET_VOLUME
+音量 调 到 最 大
+n v v d a
+O O O O O
+SET_VOLUME
+音量 调 到 三分之一
+n v v m
+O O O NUM
+SET_VOLUME
+声音 小 一点
+n a m
+O O NUM
+DEC_VOLUME
+音量 条 到 一半
+n q v m
+O O O NUM
+SET_VOLUME
+播放
+v
+O
+RESUME_PLAY
+第 五 个
+m m q
+NUM NUM O
+SET_INDEX
+第 一 集
+m m q
+NUM NUM O
+SET_EPISODE
+退
+v
+O
+EXIT
+快进 两 分钟
+v m q
+O NUM MINUTE
+FASTFORWARD_TIME
+第 三 集
+m m q
+NUM NUM O
+SET_EPISODE
+快进
+v
+O
+FASTFORWARD_TIME
+音量 开 到 一半
+n v v m
+O O O NUM
+SET_VOLUME
+第 92 5 集
+m m m vg
+NUM NUM NUM O
+SET_EPISODE
+925 集
+m vg
+NUM O
+SET_EPISODE
+最后 一 期
+f m q
+LAST NUM O
+SET_EPISODE
+快 进 到 第 十 分钟
+d v v m m q
+O O O NUM NUM MINUTE
+SET_TIME
+第 九 百 期
+m m m ng
+NUM NUM NUM O
+SET_EPISODE
+暂停
+v
+O
+PAUSE_PLAY
+给 我 暂停
+p r v
+O O O
+PAUSE_PLAY
+静音
+n
+O
+MUTE_VOLUME
+把 音调 到 最 大
+p n p d a
+O O O MAX MAX
+SET_VOLUME
+快 进 到 一 分钟
+d v v m q
+O O O NUM MINUTE
+SET_TIME
+取消 静音
+v n
+O O
+RESUME_VOLUME
+声音 大 一点
+n a m
+O O O
+INC_VOLUME
+快进 一 分钟
+v m q
+O NUM MINUTE
+FASTFORWARD_TIME
+播放 一 集
+v m q
+O NUM O
+SET_EPISODE
+后退
+v
+O
+BACKWARD_TIME
+快 进 到 五 分钟
+d v p m q
+O O O NUM MINUTE
+SET_TIME
+快 进 到 一 小时
+d v v m n
+O O O NUM HOUR
+SET_TIME
+第 九 集
+m m vg
+NUM NUM O
+SET_EPISODE
+音量 调 到 一
+n v v m
+O O O NUM
+SET_VOLUME
+第 二 集
+m m q
+NUM NUM O
+SET_EPISODE
+第 二 级
+m m q
+NUM NUM O
+SET_EPISODE
+快 进 十 分钟
+d v m q
+O O NUM MINUTE
+FASTFORWARD_TIME
+音量 调 到 一百
+n v v m
+O O O NUM
+SET_VOLUME
+快进 三十 秒
+v m q
+O NUM SECOND
+FASTFORWARD_TIME
+快 进 到 第 一 秒
+d v v m m q
+O O O NUM NUM SECOND
+SET_TIME
+快 进 到 两 分钟
+d v v m q
+O O O NUM MINUTE
+SET_TIME
+第 二 个
+m m q
+NUM NUM O
+SET_INDEX
+快 进 到 十 分钟
+d v p m q
+O O O NUM MINUTE
+SET_TIME
+第 一千 集
+m m q
+NUM NUM O
+SET_EPISODE
+播放 第 一 集
+v m m q
+O NUM NUM O
+SET_EPISODE
+下 一 节
+f m q
+O NUM O
+NEXT_EPISODE
+第 四 集
+m m q
+NUM NUM O
+SET_EPISODE
+快退
+v
+O
+BACKWARD_TIME
+增加 音量
+v n
+O O
+INC_VOLUME
+减 音量
+v n
+O O
+DEC_VOLUME
+下 一个
+f m
+O NUM
+NEXT_INDEX
+上 一个
+f m
+O NUM
+PREV_INDEX
+返回
+v
+O
+BACK
+在 快进
+p v
+O O
+FASTFORWARD_TIME
+增加 音量 五
+v n m
+O O NUM
+INC_VOLUME
+快 进 三
+d v m
+O O NUM
+FASTFORWARD_TIME
+快 进 五
+d v m
+O O NUM
+FASTFORWARD_TIME
+增加 音量 五十
+v n m
+O O NUM
+INC_VOLUME
+减 音量 5
+v n m
+O O NUM
+DEC_VOLUME
+增加 音量 九
+v n m
+O O NUM
+INC_VOLUME
+增加 音量 十一
+v n m
+O O NUM
+INC_VOLUME
+减少 音量 十一
+v n m
+O O NUM
+DEC_VOLUME
+减少 音量
+v n
+O O
+DEC_VOLUME
+快 进 五 分钟
+d v m q
+O O NUM MINUTE
+FASTFORWARD_TIME
+往 前 个
+p f q
+O O O
+FASTFORWARD_TIME
+回首 页
+v q
+O O
+EXIT
+小声 点点
+d n
+O O
+DEC_VOLUME
+快 进 到 三十 分钟
+d v p m q
+O O O NUM MINUTE
+SET_TIME
+第 三 个
+m m q
+NUM NUM O
+SET_INDEX
+最 大 音量
+d a n
+O O O
+SET_VOLUME
+上 一 集
+f m q
+O NUM O
+PREV_EPISODE
+第 四 个
+m m q
+NUM NUM O
+SET_INDEX
+第 十 集
+m m vg
+NUM NUM O
+SET_EPISODE
+下一页
+n
+O
+NEXT_PAGE
+上 一 页
+f m q
+O NUM O
+PREV_PAGE
+第 三 页
+m m q
+NUM NUM O
+SET_PAGE
+最后 第 二 页
+f m m q
+O NUM NUM O
+SET_PAGE
+第 五 页
+m m q
+NUM NUM O
+SET_PAGE
+第 四 页
+m m q
+NUM NUM O
+SET_PAGE
+声音 强 一点
+n a m
+O O O
+INC_VOLUME
+前进
+v
+O
+FASTFORWARD_TIME
+声音 放大 点
+n v n
+O O O
+INC_VOLUME
+回到 主界面
+v v
+O O
+EXIT
+音量 放大 一点
+n v m
+O O NUM
+INC_VOLUME
+推荐
+v
+O
+NEXT_SEARCH
+第 二 页
+m m q
+NUM NUM O
+SET_PAGE
+第 一 页
+m m q
+NUM NUM O
+SET_PAGE
+下页
+n
+O
+NEXT_PAGE
+下
+f
+O
+NEXT_EPISODE
+第 四 节
+m m q
+NUM NUM O
+SET_PAGE
+第 八 集
+m m vg
+NUM NUM O
+SET_EPISODE
+我 想 看 第 三 集
+r v v m m q
+O O O NUM NUM O
+SET_EPISODE
+我 想 看 第 九 集
+r v v m m vg
+O O O NUM NUM O
+SET_EPISODE
+第 六 集
+m m vg
+NUM NUM O
+SET_EPISODE
+退出 播放
+v v
+O O
+BACK
+搜索
+n
+O
+NEXT_SEARCH
+关闭 音量
+v n
+O O
+MUTE_VOLUME
+开启 音量
+v n
+O O
+RESUME_VOLUME
+开启 音量
+v n
+O O
+RESUME_VOLUME
+看 第 一 集
+v m m q
+O NUM NUM O
+SET_EPISODE
+下 一 集 了
+f m vg y
+O NUM O O
+NEXT_EPISODE
+第 一百 集
+m m vg
+NUM NUM O
+SET_EPISODE
+跳 过 片头
+v u n
+O O OP
+SKIP_PART
+播放 下 一 句
+v f m q
+O O NUM O
+NEXT_EPISODE
+播放 第 七 集
+v m m vg
+O NUM NUM O
+SET_EPISODE
+播放 第 十 集
+v m m vg
+O NUM NUM O
+SET_EPISODE
+我 想 看 第 一百 集
+r v v m m vg
+O O O NUM NUM O
+SET_EPISODE
+我 想 看 第 二 百 期
+r v v m m m ng
+O O O NUM NUM NUM O
+SET_EPISODE
+音量 大 一 点
+n a m q
+O O O O
+INC_VOLUME
+音量 最 大
+n d a
+O MAX MAX
+SET_VOLUME
+恢复 播放
+v v
+O O
+RESUME_PLAY
+下 一 集
+f m m
+O NUM O
+NEXT_EPISODE
+声音 大 一点儿
+n a m
+O O O
+INC_VOLUME
+声音 最 大
+n d a
+O MAX MAX
+SET_VOLUME
+声音 最 小
+n d a
+O MIN MIN
+SET_VOLUME
+快进 二十 秒
+v m q
+O NUM SECOND
+FASTFORWARD_TIME
+下集
+n
+O
+NEXT_EPISODE
+第 七 集
+m m vg
+NUM NUM O
+SET_EPISODE
+第 十五 集
+m m vg
+NUM NUM O
+SET_EPISODE
+第 三十 集
+m m vg
+NUM NUM O
+SET_EPISODE
+快进 一 小时
+v m n
+O NUM HOUR
+FASTFORWARD_TIME
+后退 半 小时
+v m n
+O NUM HOUR
+BACKWARD_TIME
+快 进 半 小时
+d v m n
+O O NUM HOUR
+BACKWARD_TIME
+播放 第 十五 集
+v m m vg
+O NUM NUM O
+SET_EPISODE
+快 进 八 分钟
+d v m q
+O O NUM MINUTE
+FASTFORWARD_TIME
+快 进 六 分钟
+d v m q
+O O NUM MINUTE
+FASTFORWARD_TIME
+播放 第 四 集
+v m m q
+O NUM NUM O
+SET_EPISODE
+播放 第 一百 集
+v m m vg
+O NUM NUM O
+SET_EPISODE
+我 想 看 下 一 集
+r v v f m q
+O O O O NUM O
+NEXT_EPISODE
+播放 最后 一 集
+v f m q
+O LAST NUM O
+SET_EPISODE
+快进 十三 分钟
+v m q
+O NUM MINUTE
+FASTFORWARD_TIME
+快进 三十 分钟
+v m q
+O NUM MINUTE
+FASTFORWARD_TIME
+播放 第 五 集
+v m m vg
+O NUM NUM O
+SET_EPISODE
+快进 两 小时
+v m n
+O NUM HOUR
+FASTFORWARD_TIME
+播放 第 六 集
+v m m vg
+O NUM NUM O
+SET_EPISODE
+播放 第 三 集
+v m m q
+O NUM NUM O
+SET_EPISODE
+播放 下 一 集
+v f m q
+O O NUM O
+NEXT_EPISODE
+播
+v
+O
+RESUME_PLAY
+播放 第 二 集
+v m m q
+O NUM NUM O
+SET_EPISODE
+我 播放 上 一 集
+r v f m q
+O O O NUM O
+PREV_EPISODE
+我 要 看 第 一 集
+r v v m m q
+O O O NUM NUM O
+SET_EPISODE
+我 要 看 第 四 集
+r v v m m q
+O O O NUM NUM O
+SET_EPISODE
+搜索 搜索
+v n
+O O
+NEXT_SEARCH
+播放 快 进 五 分钟
+v d v m q
+O O O NUM MINUTE
+FASTFORWARD_TIME
+快退 十秒
+v m
+O NUM
+BACKWARD_TIME
+后退 一 分钟
+v m q
+O NUM MINUTE
+BACKWARD_TIME
+后退 三 分钟
+v m q
+O NUM MINUTE
+BACKWARD_TIME
+其他 的 吗
+r u y
+O O O
+NEXT_SEARCH
+音量 调 到 十
+n v v m
+O O O NUM
+SET_VOLUME
+快进 到 10 分钟
+v p m q
+O O NUM MINUTE
+SET_TIME
+快进 30 秒
+v m q
+O NUM SECOND
+FASTFORWARD_TIME
+音量 调 到 10
+n v v m
+O O O NUM
+SET_VOLUME
+声音 大 一些
+n v m
+O O NUM
+INC_VOLUME
+声音 轻 一点
+n a m
+O O NUM
+DEC_VOLUME
+第 1 集
+m m vg
+NUM NUM O
+SET_EPISODE
+第 2 集
+m m vg
+NUM NUM O
+SET_EPISODE
+第 3 集
+m m vg
+NUM NUM O
+SET_EPISODE
+第 4 集
+m m vg
+NUM NUM O
+SET_EPISODE
+第 5 集
+m m vg
+NUM NUM O
+SET_EPISODE
+第 6 集
+m m vg
+NUM NUM O
+SET_EPISODE
+第 7 集
+m m vg
+NUM NUM O
+SET_EPISODE
+第 8 集
+m m vg
+NUM NUM O
+SET_EPISODE
+第 9 集
+m m vg
+NUM NUM O
+SET_EPISODE
+第 10 集
+m m vg
+NUM NUM O
+SET_EPISODE
+第 11 集
+m m vg
+NUM NUM O
+SET_EPISODE
+第 12 集
+m m vg
+NUM NUM O
+SET_EPISODE
+第 13 集
+m m vg
+NUM NUM O
+SET_EPISODE
+第 14 集
+m m vg
+NUM NUM O
+SET_EPISODE
+第 15 集
+m m vg
+NUM NUM O
+SET_EPISODE
+第 16 集
+m m vg
+NUM NUM O
+SET_EPISODE
+第 17 集
+m m vg
+NUM NUM O
+SET_EPISODE
+第 18 集
+m m vg
+NUM NUM O
+SET_EPISODE
+第 19 集
+m m vg
+NUM NUM O
+SET_EPISODE
+第 20 集
+m m vg
+NUM NUM O
+SET_EPISODE
+第 21 集
+m m vg
+NUM NUM O
+SET_EPISODE
+第 22 集
+m m vg
+NUM NUM O
+SET_EPISODE
+第 23 集
+m m vg
+NUM NUM O
+SET_EPISODE
+第 24 集
+m m vg
+NUM NUM O
+SET_EPISODE
+第 25 集
+m m vg
+NUM NUM O
+SET_EPISODE
+第 26 集
+m m vg
+NUM NUM O
+SET_EPISODE
+第 27 集
+m m vg
+NUM NUM O
+SET_EPISODE
+第 28 集
+m m vg
+NUM NUM O
+SET_EPISODE
+第 29 集
+m m vg
+NUM NUM O
+SET_EPISODE
+第 一 集
+m m q
+NUM NUM O
+SET_EPISODE
+第 二 集
+m m q
+NUM NUM O
+SET_EPISODE
+第 三 集
+m m q
+NUM NUM O
+SET_EPISODE
+第 四 集
+m m q
+NUM NUM O
+SET_EPISODE
+第 五 集
+m m vg
+NUM NUM O
+SET_EPISODE
+第 六 集
+m m vg
+NUM NUM O
+SET_EPISODE
+第 七 集
+m m vg
+NUM NUM O
+SET_EPISODE
+第 八 集
+m m vg
+NUM NUM O
+SET_EPISODE
+第 九 集
+m m vg
+NUM NUM O
+SET_EPISODE
+第 十 集
+m m vg
+NUM NUM O
+SET_EPISODE
+第 十一 集
+m m vg
+NUM NUM O
+SET_EPISODE
+第 十二 集
+m m vg
+NUM NUM O
+SET_EPISODE
+第 十三 集
+m m vg
+NUM NUM O
+SET_EPISODE
+第 十四 集
+m m vg
+NUM NUM O
+SET_EPISODE
+第 十五 集
+m m vg
+NUM NUM O
+SET_EPISODE
+第 十六 集
+m m vg
+NUM NUM O
+SET_EPISODE
+第 十七 集
+m m vg
+NUM NUM O
+SET_EPISODE
+第 十八 集
+m m vg
+NUM NUM O
+SET_EPISODE
+第 十九 集
+m m vg
+NUM NUM O
+SET_EPISODE
+第 二十 集
+m m vg
+NUM NUM O
+SET_EPISODE
+第 二十一 集
+m m vg
+NUM NUM O
+SET_EPISODE
+第 二十二 集
+m m vg
+NUM NUM O
+SET_EPISODE
+第 二十三 集
+m m vg
+NUM NUM O
+SET_EPISODE
+第 二十四 集
+m m vg
+NUM NUM O
+SET_EPISODE
+第 二十五 集
+m m vg
+NUM NUM O
+SET_EPISODE
+第 二十六 集
+m m vg
+NUM NUM O
+SET_EPISODE
+第 二十七 集
+m m vg
+NUM NUM O
+SET_EPISODE
+第 二十八 集
+m m vg
+NUM NUM O
+SET_EPISODE
+第 二十九 集
+m m vg
+NUM NUM O
+SET_EPISODE
+十 集
+m q
+NUM O
+SET_EPISODE
+十一 集
+m vg
+NUM O
+SET_EPISODE
+十二 集
+m vg
+NUM O
+SET_EPISODE
+十三 集
+m vg
+NUM O
+SET_EPISODE
+十四 集
+m vg
+NUM O
+SET_EPISODE
+十五 集
+m vg
+NUM O
+SET_EPISODE
+十六 集
+m vg
+NUM O
+SET_EPISODE
+十七 集
+m vg
+NUM O
+SET_EPISODE
+十八 集
+m vg
+NUM O
+SET_EPISODE
+十九 集
+m vg
+NUM O
+SET_EPISODE
+二十 集
+m vg
+NUM O
+SET_EPISODE
+二十一 集
+m vg
+NUM O
+SET_EPISODE
+二十二 集
+m vg
+NUM O
+SET_EPISODE
+二十三 集
+m vg
+NUM O
+SET_EPISODE
+二十四 集
+m vg
+NUM O
+SET_EPISODE
+二十五 集
+m vg
+NUM O
+SET_EPISODE
+二十六 集
+m vg
+NUM O
+SET_EPISODE
+二十七 集
+m vg
+NUM O
+SET_EPISODE
+二十八 集
+m vg
+NUM O
+SET_EPISODE
+二十九 集
+m vg
+NUM O
+SET_EPISODE
+10 集
+m vg
+NUM O
+SET_EPISODE
+11 集
+m vg
+NUM O
+SET_EPISODE
+12 集
+m vg
+NUM O
+SET_EPISODE
+13 集
+m vg
+NUM O
+SET_EPISODE
+14 集
+m vg
+NUM O
+SET_EPISODE
+15 集
+m vg
+NUM O
+SET_EPISODE
+16 集
+m vg
+NUM O
+SET_EPISODE
+17 集
+m vg
+NUM O
+SET_EPISODE
+18 集
+m vg
+NUM O
+SET_EPISODE
+19 集
+m vg
+NUM O
+SET_EPISODE
+20 集
+m vg
+NUM O
+SET_EPISODE
+21 集
+m vg
+NUM O
+SET_EPISODE
+22 集
+m vg
+NUM O
+SET_EPISODE
+23 集
+m vg
+NUM O
+SET_EPISODE
+24 集
+m vg
+NUM O
+SET_EPISODE
+25 集
+m vg
+NUM O
+SET_EPISODE
+26 集
+m vg
+NUM O
+SET_EPISODE
+27 集
+m vg
+NUM O
+SET_EPISODE
+28 集
+m vg
+NUM O
+SET_EPISODE
+29 集
+m vg
+NUM O
+SET_EPISODE
+第 一 个
+m m q
+NUM NUM O
+SET_INDEX
+第 二 个
+m m q
+NUM NUM O
+SET_INDEX
+第 三 个
+m m q
+NUM NUM O
+SET_INDEX
+第 四 个
+m m q
+NUM NUM O
+SET_INDEX
+第 五 个
+m m q
+NUM NUM O
+SET_INDEX
+第 六 个
+m m q
+NUM NUM O
+SET_INDEX
+第 七 个
+m m q
+NUM NUM O
+SET_INDEX
+第 八 个
+m m q
+NUM NUM O
+SET_INDEX
+第 九 个
+m m q
+NUM NUM O
+SET_INDEX
+第 十 个
+m m q
+NUM NUM O
+SET_INDEX
+第 十一 个
+m m q
+NUM NUM O
+SET_INDEX
+第 十二 个
+m m q
+NUM NUM O
+SET_INDEX
+第 十三 个
+m m q
+NUM NUM O
+SET_INDEX
+第 十四 个
+m m q
+NUM NUM O
+SET_INDEX
+第 十五 个
+m m q
+NUM NUM O
+SET_INDEX
+第 十六 个
+m m q
+NUM NUM O
+SET_INDEX
+第 十七 个
+m m q
+NUM NUM O
+SET_INDEX
+第 十八 个
+m m q
+NUM NUM O
+SET_INDEX
+第 十九 个
+m m q
+NUM NUM O
+SET_INDEX
+第 二十 个
+m m q
+NUM NUM O
+SET_INDEX
+第 二十一 个
+m m q
+NUM NUM O
+SET_INDEX
+第 二十二 个
+m m q
+NUM NUM O
+SET_INDEX
+第 二十三 个
+m m q
+NUM NUM O
+SET_INDEX
+第 二十四 个
+m m q
+NUM NUM O
+SET_INDEX
+第 二十五 个
+m m q
+NUM NUM O
+SET_INDEX
+第 二十六 个
+m m q
+NUM NUM O
+SET_INDEX
+第 二十七 个
+m m q
+NUM NUM O
+SET_INDEX
+第 二十八 个
+m m q
+NUM NUM O
+SET_INDEX
+第 二十九 个
+m m q
+NUM NUM O
+SET_INDEX
+第 一 级
+m m q
+NUM NUM O
+SET_EPISODE
+第 二 级
+m m q
+NUM NUM O
+SET_EPISODE
+第 三 级
+m m q
+NUM NUM O
+SET_EPISODE
+第 四 级
+m m q
+NUM NUM O
+SET_EPISODE
+第 五 级
+m m q
+NUM NUM O
+SET_EPISODE
+第 六 级
+m m q
+NUM NUM O
+SET_EPISODE
+第 七 级
+m m q
+NUM NUM O
+SET_EPISODE
+第 八 级
+m m q
+NUM NUM O
+SET_EPISODE
+第 九 级
+m m q
+NUM NUM O
+SET_EPISODE
+第 十 级
+m m q
+NUM NUM O
+SET_EPISODE
+第 十一 级
+m m q
+NUM NUM O
+SET_EPISODE
+第 十二 级
+m m q
+NUM NUM O
+SET_EPISODE
+第 十三 级
+m m q
+NUM NUM O
+SET_EPISODE
+第 十四 级
+m m q
+NUM NUM O
+SET_EPISODE
+第 十五 级
+m m n
+NUM NUM O
+SET_EPISODE
+第 十六 级
+m m n
+NUM NUM O
+SET_EPISODE
+第 十七 级
+m m q
+NUM NUM O
+SET_EPISODE
+第 十八 级
+m m n
+NUM NUM O
+SET_EPISODE
+第 十九 级
+m m q
+NUM NUM O
+SET_EPISODE
+第 二十 级
+m m n
+NUM NUM O
+SET_EPISODE
+第 二十一 级
+m m n
+NUM NUM O
+SET_EPISODE
+第 二十二 级
+m m q
+NUM NUM O
+SET_EPISODE
+第 二十三 级
+m m q
+NUM NUM O
+SET_EPISODE
+第 二十四 级
+m m n
+NUM NUM O
+SET_EPISODE
+第 二十五 级
+m m n
+NUM NUM O
+SET_EPISODE
+第 二十六 级
+m m n
+NUM NUM O
+SET_EPISODE
+第 二十七 级
+m m n
+NUM NUM O
+SET_EPISODE
+第 二十八 级
+m m n
+NUM NUM O
+SET_EPISODE
+第 二十九 级
+m m n
+NUM NUM O
+SET_EPISODE
+第 一 页
+m m q
+NUM NUM O
+SET_PAGE
+第 二 页
+m m q
+NUM NUM O
+SET_PAGE
+第 三 页
+m m q
+NUM NUM O
+SET_PAGE
+第 四 页
+m m q
+NUM NUM O
+SET_PAGE
+第 五 页
+m m q
+NUM NUM O
+SET_PAGE
+第 六 页
+m m q
+NUM NUM O
+SET_PAGE
+第 七 页
+m m q
+NUM NUM O
+SET_PAGE
+第 八 页
+m m q
+NUM NUM O
+SET_PAGE
+第 九 页
+m m q
+NUM NUM O
+SET_PAGE
+第 十 页
+m m q
+NUM NUM O
+SET_PAGE
+第 十一 页
+m m q
+NUM NUM O
+SET_PAGE
+第 十二 页
+m m q
+NUM NUM O
+SET_PAGE
+第 十三 页
+m m q
+NUM NUM O
+SET_PAGE
+第 十四 页
+m m q
+NUM NUM O
+SET_PAGE
+第 十五 页
+m m q
+NUM NUM O
+SET_PAGE
+第 十六 页
+m m q
+NUM NUM O
+SET_PAGE
+第 十七 页
+m m q
+NUM NUM O
+SET_PAGE
+第 十八 页
+m m q
+NUM NUM O
+SET_PAGE
+第 十九 页
+m m q
+NUM NUM O
+SET_PAGE
+第 二十 页
+m m q
+NUM NUM O
+SET_PAGE
+第 二十一 页
+m m q
+NUM NUM O
+SET_PAGE
+第 二十二 页
+m m q
+NUM NUM O
+SET_PAGE
+第 二十三 页
+m m q
+NUM NUM O
+SET_PAGE
+第 二十四 页
+m m q
+NUM NUM O
+SET_PAGE
+第 二十五 页
+m m q
+NUM NUM O
+SET_PAGE
+第 二十六 页
+m m q
+NUM NUM O
+SET_PAGE
+第 二十七 页
+m m q
+NUM NUM O
+SET_PAGE
+第 二十八 页
+m m q
+NUM NUM O
+SET_PAGE
+第 二十九 页
+m m q
+NUM NUM O
+SET_PAGE
+快进 一 分钟
+v m q
+O NUM MINUTE
+FASTFORWARD_TIME
+快 进 二 分钟
+d v m q
+O O NUM MINUTE
+FASTFORWARD_TIME
+快 进 三 分钟
+d v m q
+O O NUM MINUTE
+FASTFORWARD_TIME
+快 进 四 分钟
+d v m q
+O O NUM MINUTE
+FASTFORWARD_TIME
+快 进 五 分钟
+d v m q
+O O NUM MINUTE
+FASTFORWARD_TIME
+快 进 六 分钟
+d v m q
+O O NUM MINUTE
+FASTFORWARD_TIME
+快 进 七 分钟
+d v m q
+O O NUM MINUTE
+FASTFORWARD_TIME
+快 进 八 分钟
+d v m q
+O O NUM MINUTE
+FASTFORWARD_TIME
+快 进 九 分钟
+d v m q
+O O NUM MINUTE
+FASTFORWARD_TIME
+快 进 十 分钟
+d v m q
+O O NUM MINUTE
+FASTFORWARD_TIME
+快进 十一 分钟
+v m q
+O NUM MINUTE
+FASTFORWARD_TIME
+快进 十二 分钟
+v m q
+O NUM MINUTE
+FASTFORWARD_TIME
+快进 十三 分钟
+v m q
+O NUM MINUTE
+FASTFORWARD_TIME
+快进 十四 分钟
+v m q
+O NUM MINUTE
+FASTFORWARD_TIME
+快进 十五 分钟
+v m q
+O NUM MINUTE
+FASTFORWARD_TIME
+快进 十六 分
+v m n
+O NUM O
+FASTFORWARD_TIME
+快进 十七 分
+v m n
+O NUM O
+FASTFORWARD_TIME
+快进 十八 分
+v m n
+O NUM O
+FASTFORWARD_TIME
+快进 十九 分
+v m n
+O NUM O
+FASTFORWARD_TIME
+快进 二十分
+v t
+O O
+FASTFORWARD_TIME
+快进 二十一 分钟
+v m q
+O NUM MINUTE
+FASTFORWARD_TIME
+快进 二十二 分钟
+v m q
+O NUM MINUTE
+FASTFORWARD_TIME
+快进 二十三 分钟
+v m q
+O NUM MINUTE
+FASTFORWARD_TIME
+快进 二十四 分钟
+v m q
+O NUM MINUTE
+FASTFORWARD_TIME
+快进 二十五 分钟
+v m q
+O NUM MINUTE
+FASTFORWARD_TIME
+快进 二十六 分钟
+v m q
+O NUM MINUTE
+FASTFORWARD_TIME
+快进 二十七 分钟
+v m q
+O NUM MINUTE
+FASTFORWARD_TIME
+快进 二十八 分钟
+v m q
+O NUM MINUTE
+FASTFORWARD_TIME
+快进 二十九 分钟
+v m q
+O NUM MINUTE
+FASTFORWARD_TIME
+快进 三十 分钟
+v m q
+O NUM MINUTE
+FASTFORWARD_TIME
+快进 三十一 分钟
+v m q
+O NUM MINUTE
+FASTFORWARD_TIME
+快进 三十二 分钟
+v m q
+O NUM MINUTE
+FASTFORWARD_TIME
+快进 三十三 分钟
+v m q
+O NUM MINUTE
+FASTFORWARD_TIME
+快进 三十四 分钟
+v m q
+O NUM MINUTE
+FASTFORWARD_TIME
+快进 三十五 分钟
+v m q
+O NUM MINUTE
+FASTFORWARD_TIME
+快进 三十六 分钟
+v m q
+O NUM MINUTE
+FASTFORWARD_TIME
+快进 三十七 分钟
+v m q
+O NUM MINUTE
+FASTFORWARD_TIME
+快进 三十八 分钟
+v m q
+O NUM MINUTE
+FASTFORWARD_TIME
+快进 三十九 分钟
+v m q
+O NUM MINUTE
+FASTFORWARD_TIME
+快 进 四十 分钟
+d v m q
+O O NUM MINUTE
+FASTFORWARD_TIME
+快 进 四十一 分钟
+d v m q
+O O NUM MINUTE
+FASTFORWARD_TIME
+快 进 四十二 分钟
+d v m q
+O O NUM MINUTE
+FASTFORWARD_TIME
+快 进 四十三分
+d v t
+O O O
+FASTFORWARD_TIME
+快 进 四十四 分
+d v m n
+O O NUM O
+FASTFORWARD_TIME
+快 进 四十五分
+d v t
+O O O
+FASTFORWARD_TIME
+快 进 四十六 分
+d v m n
+O O NUM O
+FASTFORWARD_TIME
+快 进 四十七分
+d v i
+O O O
+FASTFORWARD_TIME
+快 进 四十八 分
+d v m n
+O O NUM O
+FASTFORWARD_TIME
+快 进 四十九 分
+d v m n
+O O NUM O
+FASTFORWARD_TIME
+快 进 五十 分钟
+d v m q
+O O NUM MINUTE
+FASTFORWARD_TIME
+快 进 五十一 分钟
+d v m q
+O O NUM MINUTE
+FASTFORWARD_TIME
+快 进 五十二 分钟
+d v m q
+O O NUM MINUTE
+FASTFORWARD_TIME
+快 进 五十三 分钟
+d v m q
+O O NUM MINUTE
+FASTFORWARD_TIME
+快 进 五十四 分钟
+d v m q
+O O NUM MINUTE
+FASTFORWARD_TIME
+快 进 五十五 分钟
+d v m q
+O O NUM MINUTE
+FASTFORWARD_TIME
+快 进 五十六 分钟
+d v m q
+O O NUM MINUTE
+FASTFORWARD_TIME
+快 进 五十七 分钟
+d v m q
+O O NUM MINUTE
+FASTFORWARD_TIME
+快 进 五十八 分钟
+d v m q
+O O NUM MINUTE
+FASTFORWARD_TIME
+快 进 五十九 分钟
+d v m q
+O O NUM MINUTE
+FASTFORWARD_TIME
+快进 一 秒
+v m q
+O NUM SECOND
+FASTFORWARD_TIME
+快进 二 秒
+v m q
+O NUM SECOND
+FASTFORWARD_TIME
+快 进 三 秒
+d v m q
+O O NUM SECOND
+FASTFORWARD_TIME
+快 进 四 秒
+d v m q
+O O NUM SECOND
+FASTFORWARD_TIME
+快进 五秒
+v n
+O O
+FASTFORWARD_TIME
+快进 六 秒
+v m q
+O NUM SECOND
+FASTFORWARD_TIME
+快进 七秒
+v n
+O O
+FASTFORWARD_TIME
+快进 八 秒
+v m q
+O NUM SECOND
+FASTFORWARD_TIME
+快 进 九 秒
+d v m q
+O O NUM SECOND
+FASTFORWARD_TIME
+快进 十秒
+v m
+O NUM
+FASTFORWARD_TIME
+快进 十一 秒
+v m q
+O NUM SECOND
+FASTFORWARD_TIME
+快进 十二 秒
+v m q
+O NUM SECOND
+FASTFORWARD_TIME
+快进 十三 秒
+v m q
+O NUM SECOND
+FASTFORWARD_TIME
+快进 十四 秒
+v m q
+O NUM SECOND
+FASTFORWARD_TIME
+快进 十五 秒
+v m q
+O NUM SECOND
+FASTFORWARD_TIME
+快进 十六 秒
+v m q
+O NUM SECOND
+FASTFORWARD_TIME
+快进 十七 秒
+v m q
+O NUM SECOND
+FASTFORWARD_TIME
+快进 十八 秒
+v m q
+O NUM SECOND
+FASTFORWARD_TIME
+快进 十九 秒
+v m q
+O NUM SECOND
+FASTFORWARD_TIME
+快进 二十 秒
+v m q
+O NUM SECOND
+FASTFORWARD_TIME
+快进 二十一 秒
+v m q
+O NUM SECOND
+FASTFORWARD_TIME
+快进 二十二 秒
+v m q
+O NUM SECOND
+FASTFORWARD_TIME
+快进 二十三 秒
+v m q
+O NUM SECOND
+FASTFORWARD_TIME
+快进 二十四 秒
+v m q
+O NUM SECOND
+FASTFORWARD_TIME
+快进 二十五 秒
+v m q
+O NUM SECOND
+FASTFORWARD_TIME
+快进 二十六 秒
+v m q
+O NUM SECOND
+FASTFORWARD_TIME
+快进 二十七 秒
+v m q
+O NUM SECOND
+FASTFORWARD_TIME
+快进 二十八 秒
+v m q
+O NUM SECOND
+FASTFORWARD_TIME
+快进 二十九 秒
+v m q
+O NUM SECOND
+FASTFORWARD_TIME
+快退 一 分钟
+v m q
+O NUM MINUTE
+BACKWARD_TIME
+快退 二 分钟
+v m q
+O NUM MINUTE
+BACKWARD_TIME
+快退 三 分钟
+v m q
+O NUM MINUTE
+BACKWARD_TIME
+快退 四 分钟
+v m q
+O NUM MINUTE
+BACKWARD_TIME
+快退 五 分钟
+v m q
+O NUM MINUTE
+BACKWARD_TIME
+快退 六 分钟
+v m q
+O NUM MINUTE
+BACKWARD_TIME
+快退 七 分钟
+v m q
+O NUM MINUTE
+BACKWARD_TIME
+快退 八 分钟
+v m q
+O NUM MINUTE
+BACKWARD_TIME
+快退 九 分钟
+v m q
+O NUM MINUTE
+BACKWARD_TIME
+快退 十 分钟
+v m q
+O NUM MINUTE
+BACKWARD_TIME
+快退 十一 分钟
+v m q
+O NUM MINUTE
+BACKWARD_TIME
+快退 十二 分钟
+v m q
+O NUM MINUTE
+BACKWARD_TIME
+快退 十三 分钟
+v m q
+O NUM MINUTE
+BACKWARD_TIME
+快退 十四 分钟
+v m q
+O NUM MINUTE
+BACKWARD_TIME
+快退 十五 分钟
+v m q
+O NUM MINUTE
+BACKWARD_TIME
+快退 十六 分钟
+v m q
+O NUM MINUTE
+BACKWARD_TIME
+快退 十七 分钟
+v m q
+O NUM MINUTE
+BACKWARD_TIME
+快退 十八 分钟
+v m q
+O NUM MINUTE
+BACKWARD_TIME
+快退 十九 分钟
+v m q
+O NUM MINUTE
+BACKWARD_TIME
+快退 二十 分钟
+v m q
+O NUM MINUTE
+BACKWARD_TIME
+快退 二十一 分钟
+v m q
+O NUM MINUTE
+BACKWARD_TIME
+快退 二十二 分钟
+v m q
+O NUM MINUTE
+BACKWARD_TIME
+快退 二十三 分钟
+v m q
+O NUM MINUTE
+BACKWARD_TIME
+快退 二十四 分钟
+v m q
+O NUM MINUTE
+BACKWARD_TIME
+快退 二十五 分钟
+v m q
+O NUM MINUTE
+BACKWARD_TIME
+快退 二十六 分钟
+v m q
+O NUM MINUTE
+BACKWARD_TIME
+快退 二十七 分钟
+v m q
+O NUM MINUTE
+BACKWARD_TIME
+快退 二十八 分钟
+v m q
+O NUM MINUTE
+BACKWARD_TIME
+快退 二十九 分钟
+v m q
+O NUM MINUTE
+BACKWARD_TIME
+快退 三十 分钟
+v m q
+O NUM MINUTE
+BACKWARD_TIME
+快退 三十一 分钟
+v m q
+O NUM MINUTE
+BACKWARD_TIME
+快退 三十二 分钟
+v m q
+O NUM MINUTE
+BACKWARD_TIME
+快退 三十三 分钟
+v m q
+O NUM MINUTE
+BACKWARD_TIME
+快退 三十四 分钟
+v m q
+O NUM MINUTE
+BACKWARD_TIME
+快退 三十五 分钟
+v m q
+O NUM MINUTE
+BACKWARD_TIME
+快退 三十六 分钟
+v m q
+O NUM MINUTE
+BACKWARD_TIME
+快退 三十七 分钟
+v m q
+O NUM MINUTE
+BACKWARD_TIME
+快退 三十八 分钟
+v m q
+O NUM MINUTE
+BACKWARD_TIME
+快退 三十九 分钟
+v m q
+O NUM MINUTE
+BACKWARD_TIME
+快退 四十 分钟
+v m q
+O NUM MINUTE
+BACKWARD_TIME
+快退 四十一 分钟
+v m q
+O NUM MINUTE
+BACKWARD_TIME
+快退 四十二 分钟
+v m q
+O NUM MINUTE
+BACKWARD_TIME
+快退 四十三 分钟
+v m q
+O NUM MINUTE
+BACKWARD_TIME
+快退 四十四 分钟
+v m q
+O NUM MINUTE
+BACKWARD_TIME
+快退 四十五 分钟
+v m q
+O NUM MINUTE
+BACKWARD_TIME
+快退 四十六 分钟
+v m q
+O NUM MINUTE
+BACKWARD_TIME
+快退 四十七 分钟
+v m q
+O NUM MINUTE
+BACKWARD_TIME
+快退 四十八 分钟
+v m q
+O NUM MINUTE
+BACKWARD_TIME
+快退 四十九 分钟
+v m q
+O NUM MINUTE
+BACKWARD_TIME
+快退 五十 分钟
+v m q
+O NUM MINUTE
+BACKWARD_TIME
+快退 五十一 分钟
+v m q
+O NUM MINUTE
+BACKWARD_TIME
+快退 五十二 分钟
+v m q
+O NUM MINUTE
+BACKWARD_TIME
+快退 五十三 分钟
+v m q
+O NUM MINUTE
+BACKWARD_TIME
+快退 五十四 分钟
+v m q
+O NUM MINUTE
+BACKWARD_TIME
+快退 五十五 分钟
+v m q
+O NUM MINUTE
+BACKWARD_TIME
+快退 五十六 分钟
+v m q
+O NUM MINUTE
+BACKWARD_TIME
+快退 五十七 分钟
+v m q
+O NUM MINUTE
+BACKWARD_TIME
+快退 五十八 分钟
+v m q
+O NUM MINUTE
+BACKWARD_TIME
+快退 五十九 分钟
+v m q
+O NUM MINUTE
+BACKWARD_TIME
+快退 一 秒
+v m q
+O NUM SECOND
+BACKWARD_TIME
+快退 二 秒
+v m q
+O NUM SECOND
+BACKWARD_TIME
+快退 三 秒
+v m q
+O NUM SECOND
+BACKWARD_TIME
+快退 四 秒
+v m q
+O NUM SECOND
+BACKWARD_TIME
+快退 五秒
+v n
+O O
+BACKWARD_TIME
+快退 六 秒
+v m q
+O NUM SECOND
+BACKWARD_TIME
+快退 七秒
+v n
+O O
+BACKWARD_TIME
+快退 八 秒
+v m q
+O NUM SECOND
+BACKWARD_TIME
+快退 九 秒
+v m q
+O NUM SECOND
+BACKWARD_TIME
+快退 十秒
+v m
+O NUM
+BACKWARD_TIME
+快退 十一 秒
+v m q
+O NUM SECOND
+BACKWARD_TIME
+快退 十二 秒
+v m q
+O NUM SECOND
+BACKWARD_TIME
+快退 十三 秒
+v m q
+O NUM SECOND
+BACKWARD_TIME
+快退 十四 秒
+v m q
+O NUM SECOND
+BACKWARD_TIME
+快退 十五 秒
+v m q
+O NUM SECOND
+BACKWARD_TIME
+快退 十六 秒
+v m q
+O NUM SECOND
+BACKWARD_TIME
+快退 十七 秒
+v m q
+O NUM SECOND
+BACKWARD_TIME
+快退 十八 秒
+v m q
+O NUM SECOND
+BACKWARD_TIME
+快退 十九 秒
+v m q
+O NUM SECOND
+BACKWARD_TIME
+快退 二十 秒
+v m q
+O NUM SECOND
+BACKWARD_TIME
+快退 二十一 秒
+v m q
+O NUM SECOND
+BACKWARD_TIME
+快退 二十二 秒
+v m q
+O NUM SECOND
+BACKWARD_TIME
+快退 二十三 秒
+v m q
+O NUM SECOND
+BACKWARD_TIME
+快退 二十四 秒
+v m q
+O NUM SECOND
+BACKWARD_TIME
+快退 二十五 秒
+v m q
+O NUM SECOND
+BACKWARD_TIME
+快退 二十六 秒
+v m q
+O NUM SECOND
+BACKWARD_TIME
+快退 二十七 秒
+v m q
+O NUM SECOND
+BACKWARD_TIME
+快退 二十八 秒
+v m q
+O NUM SECOND
+BACKWARD_TIME
+快退 二十九 秒
+v m q
+O NUM SECOND
+BACKWARD_TIME
+最后 一 集
+f m q
+LAST NUM O
+SET_EPISODE
+末尾 一 集
+n m q
+LAST NUM O
+SET_EPISODE
+我 想 看 最后 一 集
+r v v f m q
+O O O LAST NUM O
+SET_EPISODE
+倒数 第 一 集
+v m m q
+LAST NUM NUM O
+SET_EPISODE
+倒数 第 二 集
+vn m m q
+LAST NUM NUM O
+SET_EPISODE
+倒数 第 三 集
+v m m q
+LAST NUM NUM O
+SET_EPISODE
+最后 一 期
+f m q
+LAST NUM O
+SET_EPISODE
+倒数 第 二 期
+vn m m q
+LAST NUM NUM O
+SET_EPISODE
+大结局
+n
+LAST
+SET_EPISODE
+我 想 看 大结局
+r v v n
+O O O LAST
+SET_EPISODE
+最后 一 季
+f m ng
+LAST NUM O
+SET_EPISODE
+最后 一 集
+f m q
+LAST NUM O
+SET_EPISODE
+最后 一 期
+f m q
+LAST NUM O
+SET_EPISODE
+最 新 一 季
+d a m ng
+LAST LAST NUM O
+SET_EPISODE
+看 最 新 一 期
+v d a m q
+O LAST LAST NUM O
+SET_EPISODE
+帮 我 把 音量 调 高点
+v r p n v n
+O O O O O O
+INC_VOLUME
+帮 我 把 音量 调 低点
+v r p n v n
+O O O O O O
+DEC_VOLUME
+把 音量 调 高点
+p n v n
+O O O O
+INC_VOLUME
+把 声音 调 高点
+p n v n
+O O O O
+INC_VOLUME
+把 声音 调 低点
+p n v n
+O O O O
+DEC_VOLUME
+把 声音 调高
+p n v
+O O O
+INC_VOLUME
+调 低 声音
+v a n
+O O O
+DEC_VOLUME
+调 高 声音
+v a n
+O O O
+INC_VOLUME
+调 高 音量
+v a n
+O O O
+INC_VOLUME
+调 低 声音
+v a n
+O O O
+DEC_VOLUME
+调 低 音量
+v a n
+O O O
+DEC_VOLUME
+音量 下降
+n v
+O O
+DEC_VOLUME
+声音 大 点
+n a n
+O O O
+INC_VOLUME
+声音 小 点
+n a n
+O O O
+DEC_VOLUME
+声音 调 大 点
+n v a n
+O O O O
+INC_VOLUME
+声音 调 小 点
+n v a n
+O O O O
+DEC_VOLUME
+声音 太 大 了
+n d a y
+O O O O
+DEC_VOLUME
+声音 太 小 了
+n d a y
+O O O O
+INC_VOLUME
+声音 大 了
+n a y
+O O O
+DEC_VOLUME
+声音 小 了
+n a y
+O O O
+INC_VOLUME
+我 想 看 这个
+r v v r
+O O O O
+SET_INDEX
+有 其他 的 么
+v r u y
+O O O O
+NEXT_SEARCH
+看 这个 吧
+v r y
+O O O
+SET_INDEX
+看 这个
+v r
+O O
+SET_INDEX
+就 看 这个
+p v r
+O O O
+SET_INDEX
+我 想 看 第 一 个
+r v v m m q
+O O O NUM NUM O
+SET_INDEX
+想 看 第 二 个
+v v m m q
+O O NUM NUM O
+SET_INDEX
+看 第 三 个
+v m m q
+O NUM NUM O
+SET_INDEX
+投 屏
+v ng
+O O
+RESUME_PLAY
+上 一 级
+f m q
+O O O
+BACK
+高清 播放
+n v
+RESOLUTION O
+SET_RESOLUTION
+高清版 播放
+n v
+RESOLUTION O
+SET_RESOLUTION
+高清版 播放
+n v
+RESOLUTION O
+SET_RESOLUTION
+高清版 播放
+n v
+RESOLUTION O
+SET_RESOLUTION
+高清版 播放
+n v
+RESOLUTION O
+SET_RESOLUTION
+高清 播放
+n v
+RESOLUTION O
+SET_RESOLUTION
+高清版 播放
+n v
+RESOLUTION O
+SET_RESOLUTION
+高清版 播放
+n v
+RESOLUTION O
+SET_RESOLUTION
+高清版 播放
+n v
+RESOLUTION O
+SET_RESOLUTION
+高清版 播放
+n v
+RESOLUTION O
+SET_RESOLUTION
+高清 播放
+n v
+RESOLUTION O
+SET_RESOLUTION
+高清版 播放
+n v
+RESOLUTION O
+SET_RESOLUTION
+高清版 播放
+n v
+RESOLUTION O
+SET_RESOLUTION
+高清版 播放
+n v
+RESOLUTION O
+SET_RESOLUTION
+高清版 播放
+n v
+RESOLUTION O
+SET_RESOLUTION
+高清 播放
+n v
+RESOLUTION O
+SET_RESOLUTION
+高清版 播放
+n v
+RESOLUTION O
+SET_RESOLUTION
+高清版 播放
+n v
+RESOLUTION O
+SET_RESOLUTION
+高清版 播放
+n v
+RESOLUTION O
+SET_RESOLUTION
+高清版 播放
+n v
+RESOLUTION O
+SET_RESOLUTION
+退出 投 屏
+v v ng
+O O O
+EXIT
+退出 投 屏
+v v ng
+O O O
+EXIT
+退出 投 屏
+v v ng
+O O O
+EXIT
+退出 投 屏
+v v ng
+O O O
+EXIT
+投 屏
+v ng
+O O
+RESUME_PLAY
+切 360p
+d nz
+O RESOLUTION
+SET_RESOLUTION
+切 480p
+d nz
+O RESOLUTION
+SET_RESOLUTION
+360p
+nz
+RESOLUTION
+SET_RESOLUTION
+480p
+nz
+RESOLUTION
+SET_RESOLUTION
+我 想 看 360p 的
+r v v nz u
+O O O RESOLUTION O
+SET_RESOLUTION
+有 没 有 360p 的 换 一下
+v d v nz u v m
+O O O RESOLUTION O O O
+SET_RESOLUTION
+换 成 360p 的
+v v nz u
+O O RESOLUTION O
+SET_RESOLUTION
+切换 360p
+v nz
+O RESOLUTION
+SET_RESOLUTION
+我 想 看 360p 版本 的
+r v v nz n u
+O O O RESOLUTION O O
+SET_RESOLUTION
+有 没 有 360p 版
+v d v nz n
+O O O RESOLUTION O
+SET_RESOLUTION
+帮 我 切换 成 360p 清晰度 的
+v r v v nz n u
+O O O O RESOLUTION O O
+SET_RESOLUTION
+我 要 360p 版
+r v nz n
+O O RESOLUTION O
+SET_RESOLUTION
+小 鹿 我 想 要 360p 版
+a n r v v nz n
+O O O O O RESOLUTION O
+SET_RESOLUTION
+可以 换 成 360p 吗
+v v v nz y
+O O O RESOLUTION O
+SET_RESOLUTION
+换 分辨率 到 360p
+v n v nx
+O O O RESOLUTION
+SET_RESOLUTION
+调 到 360p
+v v nx
+O O RESOLUTION
+SET_RESOLUTION
+分辨率 降 到 360p
+n v v nx
+O O O RESOLUTION
+SET_RESOLUTION
+降 到 360p
+v v nx
+O O RESOLUTION
+SET_RESOLUTION
+将 分辨率 换 成 360p
+p n v v nx
+O O O O RESOLUTION
+SET_RESOLUTION
+我 想 看 480p 的
+r v v nz u
+O O O RESOLUTION O
+SET_RESOLUTION
+有 没 有 480p 的 换 一下
+v d v nz u v m
+O O O RESOLUTION O O O
+SET_RESOLUTION
+换 成 480p 的
+v v nz u
+O O RESOLUTION O
+SET_RESOLUTION
+切换 480p
+v nz
+O RESOLUTION
+SET_RESOLUTION
+我 想 看 480p 版本 的
+r v v nz n u
+O O O RESOLUTION O O
+SET_RESOLUTION
+有 没 有 480p 版
+v d v nz n
+O O O RESOLUTION O
+SET_RESOLUTION
+帮 我 切换 成 480p 清晰度 的
+v r v v nz n u
+O O O O RESOLUTION O O
+SET_RESOLUTION
+我 要 480p 版
+r v nz n
+O O RESOLUTION O
+SET_RESOLUTION
+小 鹿 我 想 要 480p 版
+a n r v v nz n
+O O O O O RESOLUTION O
+SET_RESOLUTION
+可以 换 成 480p 吗
+v v v nz y
+O O O RESOLUTION O
+SET_RESOLUTION
+换 分辨率 到 480p
+v n v nx
+O O O RESOLUTION
+SET_RESOLUTION
+调 到 480p
+v v nx
+O O RESOLUTION
+SET_RESOLUTION
+分辨率 降 到 480p
+n v v nx
+O O O RESOLUTION
+SET_RESOLUTION
+降 到 480p
+v v nx
+O O RESOLUTION
+SET_RESOLUTION
+将 分辨率 换 成 480p
+p n v v nx
+O O O O RESOLUTION
+SET_RESOLUTION
+我 想 看 第四 集
+r v v m vg
+O O O NUM O
+SET_EPISODE
+我 想 看 第五 集
+r v v m vg
+O O O NUM O
+SET_EPISODE
+我 想 看 第九 集
+r v v m vg
+O O O NUM O
+SET_EPISODE
+我 想 看 第七 集
+r v v m vg
+O O O NUM O
+SET_EPISODE
+我 想 看 第十一 集
+r v v m vg
+O O O NUM O
+SET_EPISODE
+我 想 看 第十二 集
+r v v m vg
+O O O NUM O
+SET_EPISODE
+我 想 看 第十六 集
+r v v m vg
+O O O NUM O
+SET_EPISODE
+我 想 看 第十四 集
+r v v m vg
+O O O NUM O
+SET_EPISODE
+我 想 看 第十 集
+r v v m vg
+O O O NUM O
+SET_EPISODE
+我 想 看 第二十三 集
+r v v m vg
+O O O NUM O
+SET_EPISODE
+我 想 看 第二十四 集
+r v v m vg
+O O O NUM O
+SET_EPISODE
+我 想 看 第三十 集
+r v v m vg
+O O O NUM O
+SET_EPISODE
+我 想 看 第三十七 集
+r v v m vg
+O O O NUM O
+SET_EPISODE
+我 想 看 第三十二 集
+r v v m vg
+O O O NUM O
+SET_EPISODE
+我 想 看 第八十三 集
+r v v m vg
+O O O NUM O
+SET_EPISODE
+我 想 看 第一百零一 集
+r v v m vg
+O O O NUM O
+SET_EPISODE
+我 想 看 第一百一十一 集
+r v v m vg
+O O O NUM O
+SET_EPISODE
+我 想 看 第一百五十 集
+r v v m vg
+O O O NUM O
+SET_EPISODE
+我 想 看 第一百二十八 集
+r v v m vg
+O O O NUM O
+SET_EPISODE
+我 要 看 第四 集
+r v v m vg
+O O O NUM O
+SET_EPISODE
+我 要 看 第五 集
+r v v m vg
+O O O NUM O
+SET_EPISODE
+我 要 看 第九 集
+r v v m vg
+O O O NUM O
+SET_EPISODE
+我 要 看 第七 集
+r v v m vg
+O O O NUM O
+SET_EPISODE
+我 要 看 第十一 集
+r v v m vg
+O O O NUM O
+SET_EPISODE
+我 要 看 第十二 集
+r v v m vg
+O O O NUM O
+SET_EPISODE
+我 要 看 第十六 集
+r v v m vg
+O O O NUM O
+SET_EPISODE
+我 要 看 第十四 集
+r v v m vg
+O O O NUM O
+SET_EPISODE
+我 要 看 第十 集
+r v v m vg
+O O O NUM O
+SET_EPISODE
+我 要 看 第二十三 集
+r v v m vg
+O O O NUM O
+SET_EPISODE
+我 要 看 第二十四 集
+r v v m vg
+O O O NUM O
+SET_EPISODE
+我 要 看 第三十 集
+r v v m vg
+O O O NUM O
+SET_EPISODE
+我 要 看 第三十七 集
+r v v m vg
+O O O NUM O
+SET_EPISODE
+我 要 看 第三十二 集
+r v v m vg
+O O O NUM O
+SET_EPISODE
+我 要 看 第八十三 集
+r v v m vg
+O O O NUM O
+SET_EPISODE
+我 要 看 第一百零一 集
+r v v m vg
+O O O NUM O
+SET_EPISODE
+我 要 看 第一百一十一 集
+r v v m vg
+O O O NUM O
+SET_EPISODE
+我 要 看 第一百五十 集
+r v v m vg
+O O O NUM O
+SET_EPISODE
+我 要 看 第一百二十八 集
+r v v m vg
+O O O NUM O
+SET_EPISODE
+第 33 台
+m m q
+NUM NUM O
+SET_CHANNEL
+第 五 台
+m m q
+NUM NUM O
+SET_CHANNEL
+第 四 台
+m m q
+NUM NUM O
+SET_CHANNEL
+第 二十一 台
+m m q
+NUM NUM O
+SET_CHANNEL
+我 要 看 二十六 台
+r v v m q
+O O O NUM O
+SET_CHANNEL
+我 要 看 七 台
+r v v m q
+O O O NUM O
+SET_CHANNEL
+我 要 看 二百五十 台
+r v v m q
+O O O NUM O
+SET_CHANNEL
+切换 到 六百三十一 频道
+v p m n
+O O NUM O
+SET_CHANNEL
+切换 到 三十八 频道
+v p m n
+O O NUM O
+SET_CHANNEL
+切换 到 九 频道
+v p m n
+O O NUM O
+SET_CHANNEL
+转 到 一 频道
+v v m n
+O O NUM O
+SET_CHANNEL
+转 到 六十 频道
+v p m n
+O O NUM O
+SET_CHANNEL
+转 到 一百零四 频道
+v p m n
+O O NUM O
+SET_CHANNEL
+上 个 频道
+f q n
+O O O
+PREV_CHANNEL
+下 个 频道
+f q n
+O O O
+NEXT_CHANNEL
+下 一个 频道
+f m n
+O NUM O
+NEXT_CHANNEL
+上 一个 频道
+f m n
+O NUM O
+PREV_CHANNEL
+前 一个 频道
+f m n
+O NUM O
+PREV_CHANNEL
+后 一个 频道
+f m n
+O NUM O
+NEXT_CHANNEL
+切 到 下 个 频道
+d p f q n
+O O O O O
+NEXT_CHANNEL
+切 到 下 一个 频道
+d p f m n
+O O O NUM O
+NEXT_CHANNEL
+切 到 上 个 频道
+v v f q n
+O O O O O
+PREV_CHANNEL
+切 到 上 一个 频道
+v p f m n
+O O O NUM O
+PREV_CHANNEL
+切 到 前 一个 频道
+v v f m n
+O O O NUM O
+PREV_CHANNEL
+切 到 后 一个 频道
+v v f m n
+O O O NUM O
+NEXT_CHANNEL
+切换 到 下 个 频道
+v p f q n
+O O O O O
+NEXT_CHANNEL
+切换 到 下 一个 频道
+v p f m n
+O O O NUM O
+NEXT_CHANNEL
+切换 到 上 个 频道
+v p f q n
+O O O O O
+PREV_CHANNEL
+切换 到 上 一个 频道
+v p f m n
+O O O NUM O
+PREV_CHANNEL
+切换 到 前 一个 频道
+v v f m n
+O O O NUM O
+PREV_CHANNEL
+切换 到 后 一个 频道
+v v f m n
+O O O NUM O
+NEXT_CHANNEL
+看 频道 三十六
+v n m
+O O NUM
+SET_CHANNEL
+看 频道 十八
+v n m
+O O NUM
+SET_CHANNEL
+看 频道 三百六十五
+v n m
+O O NUM
+SET_CHANNEL
+看 六 频道
+v m n
+O NUM O
+SET_CHANNEL
+看 三十六 频道
+v m n
+O NUM O
+SET_CHANNEL
+看 十八 频道
+v m n
+O NUM O
+SET_CHANNEL
+看 三百六十五 频道
+v m n
+O NUM O
+SET_CHANNEL
+看 频道 八
+v n m
+O O NUM
+SET_CHANNEL
+播放 二十六 台
+v m q
+O NUM O
+SET_CHANNEL
+播放 七 台
+v m q
+O NUM O
+SET_CHANNEL
+播放 二百五十 台
+v m n
+O NUM O
+SET_CHANNEL
+看 二十九 台
+v m q
+O NUM O
+SET_CHANNEL
+看 一 台
+v m q
+O NUM O
+SET_CHANNEL
+看 四百七十七 台
+v m q
+O NUM O
+SET_CHANNEL
+转 到 二十九 台
+v p m q
+O O NUM O
+SET_CHANNEL
+转 到 一 台
+v v m q
+O O NUM O
+SET_CHANNEL
+转 到 四百七十七 台
+v v m n
+O O NUM O
+SET_CHANNEL
+切 到 十八 台
+v p m q
+O O NUM O
+SET_CHANNEL
+切 到 六 台
+v p m q
+O O NUM O
+SET_CHANNEL
+切 到 一百二十三 台
+v p m q
+O O NUM O
+SET_CHANNEL
+切换 到 四十 台
+v p m q
+O O NUM O
+SET_CHANNEL
+切换 到 一百零八 台
+v p m q
+O O NUM O
+SET_CHANNEL
+我 要 看 三十七 台
+r v v m q
+O O O NUM O
+SET_CHANNEL
+我 要 看 四 台
+r v v m q
+O O O NUM O
+SET_CHANNEL
+我 要 看 二百五十六 台
+r v v m q
+O O O NUM O
+SET_CHANNEL
+切换 到 一百零九 频道
+v p m n
+O O NUM O
+SET_CHANNEL
+切换 到 五十二 频道
+v p m n
+O O NUM O
+SET_CHANNEL
+切换 到 三 频道
+v p m n
+O O NUM O
+SET_CHANNEL
+转 到 七 频道
+v p m n
+O O NUM O
+SET_CHANNEL
+转 到 六十 频道
+v p m n
+O O NUM O
+SET_CHANNEL
+转 到 一百一十二 频道
+v p m n
+O O NUM O
+SET_CHANNEL
+我 要 看 上 个 频道
+r v v f q n
+O O O O O O
+PREV_CHANNEL
+我 要 看 下 个 频道
+r v v f q n
+O O O O O O
+NEXT_CHANNEL
+我 要 看 下 一个 频道
+r v v f m n
+O O O O NUM O
+NEXT_CHANNEL
+看 上 一个 频道
+v f m n
+O O NUM O
+PREV_CHANNEL
+看 前 一个 频道
+v f m n
+O O NUM O
+PREV_CHANNEL
+看 后 一个 频道
+v f m n
+O O NUM O
+NEXT_CHANNEL
+播放 下 个 频道
+v f q n
+O O O O
+NEXT_CHANNEL
+播放 下 一个 频道
+v f m n
+O O NUM O
+NEXT_CHANNEL
+播放 上 个 频道
+v f q n
+O O O O
+PREV_CHANNEL
+播放 上 一个 频道
+v f m n
+O O NUM O
+PREV_CHANNEL
+转 到 前 一个 频道
+v v f m n
+O O O NUM O
+PREV_CHANNEL
+转 到 后 一个 频道
+v v f m n
+O O O NUM O
+NEXT_CHANNEL
+转 到 下 个 频道
+v p f q n
+O O O O O
+NEXT_CHANNEL
+转 到 下 一个 频道
+v p f m n
+O O O NUM O
+NEXT_CHANNEL
+转 到 上 个 频道
+v v f q n
+O O O O O
+PREV_CHANNEL
+看 频道 四十八
+v n m
+O O NUM
+SET_CHANNEL
+看 频道 十五
+v n m
+O O NUM
+SET_CHANNEL
+看 频道 一百三十三
+v n m
+O O NUM
+SET_CHANNEL
+看 一 频道
+v m n
+O NUM O
+SET_CHANNEL
+看 九十九 频道
+v m n
+O NUM O
+SET_CHANNEL
+看 二十三 频道
+v m n
+O NUM O
+SET_CHANNEL
+看 二百零五 频道
+v m n
+O NUM O
+SET_CHANNEL
+看 频道 三
+v n m
+O O NUM
+SET_CHANNEL
+播放 六十六 台
+v m n
+O NUM O
+SET_CHANNEL
+播放 二 台
+v m n
+O NUM O
+SET_CHANNEL
+播放 一百四十五 台
+v m n
+O NUM O
+SET_CHANNEL
+看 七十二 台
+v m q
+O NUM O
+SET_CHANNEL
+看 七 台
+v m q
+O NUM O
+SET_CHANNEL
+看 三百二十七 台
+v m q
+O NUM O
+SET_CHANNEL
+转 到 十九 台
+v p m q
+O O NUM O
+SET_CHANNEL
+转 到 八 台
+v v m q
+O O NUM O
+SET_CHANNEL
+转 到 二百八十 台
+v p m q
+O O NUM O
+SET_CHANNEL
+切 到 十一 台
+d p m q
+O O NUM O
+SET_CHANNEL
+切 到 一 台
+v v m q
+O O NUM O
+SET_CHANNEL
+切 到 二百二十三 台
+v p m q
+O O NUM O
+SET_CHANNEL
+切换 到 三十八 台
+v p m q
+O O NUM O
+SET_CHANNEL
+切换 到 六 台
+v p m q
+O O NUM O
+SET_CHANNEL
+切换 到 一百零七 台
+v p m q
+O O NUM O
+SET_CHANNEL
+停止
+v
+O
+EXIT
+等 会儿 播放
+u q v
+O O O
+RESUME_PLAY
+歇 一会儿
+v m
+O O
+RESUME_PLAY
+等 会 再 看
+u v d v
+O O O O
+RESUME_PLAY
+继续
+v
+O
+RESUME_PLAY
+恢复
+v
+O
+RESUME_PLAY
+前面 一 集
+f m q
+O NUM O
+PREV_EPISODE
+前面 两集
+f q
+O NUM
+PREV_EPISODE
+前面 三集
+f q
+O NUM
+PREV_EPISODE
+前面 五 集
+f m q
+O NUM O
+PREV_EPISODE
+后面 两集
+f q
+O NUM
+NEXT_EPISODE
+后面 三集
+f q
+O NUM
+NEXT_EPISODE
+后面 五 集
+f m q
+O NUM O
+NEXT_EPISODE
+后面 一 集
+f m q
+O NUM O
+NEXT_EPISODE
+播放 30分钟
+v nz
+O O
+SET_TIME
+播放 第 十 分钟
+v m m q
+O NUM NUM MINUTE
+SET_TIME
+播放 2 分钟
+v m q
+O NUM MINUTE
+SET_TIME
+播放 12 分钟
+v m q
+O NUM MINUTE
+SET_TIME
+后退 到 30 分钟
+v p m q
+O O NUM MINUTE
+SET_TIME
+后退 到 第 十 分钟
+v v m m q
+O O NUM NUM MINUTE
+SET_TIME
+后退 到 三 分钟
+v p m q
+O O NUM MINUTE
+SET_TIME
+后退 到 12 分钟
+v p m q
+O O NUM MINUTE
+SET_TIME
+恢复 声音
+v n
+O O
+RESUME_VOLUME
+恢复 声音
+v n
+O O
+RESUME_VOLUME
+不 看 片头
+d v n
+O O OP
+SKIP_PART
+我 不 想 看 片头
+r d v v n
+O O O O OP
+SKIP_PART
+不 看 片尾
+d v n
+O O ED
+SKIP_PART
+我 不 想 看 片尾
+r d v v n
+O O O O ED
+SKIP_PART
+切换 到 最后 一个 频道
+v p f m n
+O O LAST NUM O
+SET_CHANNEL
+回主 页
+n q
+O O
+EXIT
+返回 到 主页
+v v n
+O O O
+EXIT
+去 主页
+v n
+O O
+EXIT
+显示 主页
+v n
+O O
+EXIT
+最后 一个
+f m
+LAST NUM
+SET_INDEX
+下 三 页
+f m q
+O NUM O
+NEXT_PAGE
+开始 播放
+v v
+O O
+RESUME_PLAY
+恢复 静音
+v n
+O O
+MUTE_VOLUME
+音量 减半
+n v
+O O
+SET_VOLUME
+音量 调低 一点
+n v m
+O O O
+DEC_VOLUME
+恢复 静音
+v n
+O O
+MUTE_VOLUME

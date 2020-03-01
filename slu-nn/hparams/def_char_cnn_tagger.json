@@ -1,0 +1,17 @@
+{
+  "num_train_steps": 12000,
+  "learning_rate": 0.0003,
+  "num_hidden_units": 300,
+  "fasttext_model": "None",
+  "word_embedding_size": 300,
+  "char_embedding_size": 10,
+  "max_char_len": 6,
+  "max_seq_len": 50,
+  "max_pool_size": 4,
+  "filter_sizes": [1, 2, 3, 4, 5],
+  "num_filters": 128,
+  "rnn_size": 300,
+  "dropout_keep_prob": 0.6,
+  "batch_size": 50,
+  "attention_option": "luong"
+}

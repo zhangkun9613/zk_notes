@@ -1,0 +1,35 @@
+折天记 导演 是 谁	nz n v r	导演 查询	n v
+周星驰 导演 的 电影	nr n u n	导演 查询	n v
+我 想 看 周星驰 的 电影	r v v nr u n	导演 查询	n v
+冯小刚 拍 的 电影	nr v u n	导演 查询	n v
+冯小刚 的 老婆 是 谁	nr u n v r	导演 查询	n v
+让子弹飞 的 导演 是 谁	nz u n v r	导演 查询	n v
+鸣鸿传 的 是 谁 主演 的	nz u v r v u	演员 查询	n v
+第三季 爸爸去哪儿 的 有 哪些 明星 参加	n nz u v r n v	演员 查询	n v
+我 想 看 如懿传	r v v nz	演员 查询	n v
+让子弹飞 中 的 马邦德 是 谁 演 的	nz f u nr v r v u	演员 查询	n v
+让子弹飞 中 的 村长 夫人 是 谁 演 的	nz f u n n v r v u	演员 查询	n v
+周润发 老婆 是 谁	nr n v r	明星 关系 查询	n n v
+大s 的 老公 叫 什么 呢	nr u n v r y	明星 关系 查询	n n v
+武夷山 后天 天气 怎么样	ns n n r	天气 查询	n v
+桃源 下周 天气	ns t n	天气 查询	n v
+明天 北京 天气 怎么样	t ns n r	天气 查询	n v
+科大 讯飞 股价	j nz n	股票 查询	n v
+蔚 来 汽车 股票 行情	ag v n n n	股票 查询	n v
+爱奇艺 今天 涨 了 么	nz t v u y	股票 查询	n v
+百度 股价	nz n	股票 查询	n v
+00700 今天 走势	m t n	股票 查询	n v
+明天 杭州 限行 吗	t ns v y	限行 查询	v v
+告诉 我 杭州 周末 的 限行 情况	v r ns t u v n	限行 查询	v v
+上海 今天 限行 么	ns t v y	限行 查询	v v
+明天 限行 吗	t v y	限行 查询	v v
+跳转 到 周润发 出场 的 片段	v p nr v u n	内容 跳转	n v
+我 要 看 周杰伦 开 ae86 那 场 戏	r v v nr v nx r q n	内容 跳转	n v
+我 要 看 下辈子 我 一定 会 找到 你 的 那 段	r v v t r d v v r u r q	内容 跳转	n v
+我 想 看 我 失去 的 东西 一定 要 亲手 拿 回来	r v v r v u n d v d v v	内容 跳转	n v
+看 还有 谁 的 那 段	v v r u r q	内容 跳转	n v
+我 要 看 魏璎珞 的 片段	r v v nr u n	内容 跳转	n v
+只 看 陈柏霖	d v nr	演员 限定	n v
+我 就 想 看 有 李嘉欣 的 镜头	r d v v v nr u n	演员 限定	n v
+只 看 魏璎珞	d v nr	演员 限定	n v
+只 看 魏璎珞 和 秦岚	d v nr c nr	演员 限定	n v

@@ -1,0 +1,13 @@
+.idea
+*.pyc
+model_tmp
+training
+output
+export
+.iml
+src/contextual_filter/output
+src/word_associationq
+local/
+data/fasttext_model
+data/char_cnn_classification
+diff

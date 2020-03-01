@@ -1,0 +1,1238 @@
+可可西里 谁 导演 的	nz r v u	TITLE O TAG O
+电影 侏罗纪公园 的 导演 是 谁	n nz u n v r	O TITLE O TAG O O
+电影 侏罗纪公园 的 编剧 是 谁	n nz u n v r	O TITLE O TAG O O
+电影 侏罗纪公园 的 制片人 是 谁	n nz u n v r	O TITLE O TAG O O
+电影 茶花女 的 导演 是 谁	n nz u n v r	O TITLE O TAG O O
+电影 茶花女 的 编剧 是 谁	n nz u n v r	O TITLE O TAG O O
+电影 茶花女 的 制片人 是 谁	n nz u n v r	O TITLE O TAG O O
+蜗居 的 导演 是 谁 了	nz u n v r y	TITLE O TAG O O O
+赤壁 的 导演 是 哪个 呢	nz u n v r y	TITLE O TAG O O O
+电影 赤壁 的 导演 是 谁	n nz u n v r	O TITLE O TAG O O
+谁 拍 的 神话	r v u nz	O O O TITLE
+电视剧 神话 的 导演 是 谁	n nz u n v r	O TITLE O TAG O O
+韩剧 皇太子的初恋 导演 是 谁	n nz n v r	O TITLE TAG O O
+神话 是 哪个 作品 嘛	nz v r n y	TITLE O O O O
+生死迷局 导演 是 谁	nz n v r	TITLE TAG O O
+新 拍 的 电视剧 神话 导演 是 谁 啊	a ng u n nz n v r y	O O O O TITLE TAG O O O
+机器侠 导演 是 谁	nz n v r	TITLE TAG O O
+特殊使命 的 导演	nz u n	TITLE O TAG
+越光宝盒 是 哪个 导演 拍 的	nz v r n v u	TITLE O O TAG O O
+还珠格格 的 导演 是 谁 啊	nz u n v r y	TITLE O TAG O O O
+猫的报恩 导演 是 谁	nz n v r	TITLE TAG O O
+快乐星球 导演 是 谁	nz n v r	TITLE TAG O O
+少林寺 导演 是 谁	nz n v r	TITLE TAG O O
+大清后宫之还君明珠 的 导演 是 谁	nz u n v r	TITLE O TAG O O
+敢死队 谁 导 的	nz r vg u	TITLE O O O
+弹道 是 由 谁 导 的	n v p r vg u	TITLE O O O O O
+人在囧途 导演 是 谁	nz n v r	TITLE TAG O O
+杨贵妃秘史 导演 是 谁 啊	nz n v r y	TITLE TAG O O O
+谁 导 的 无极	r vg u nr	O O O TITLE
+电影 低俗小说 的 导演 是 谁	n nz u n v r	O TITLE O TAG O O
+暮光之城 导演	nz n	TITLE TAG
+武林外传 的 导演	nz u n	TITLE O TAG
+电影 复仇者联盟 的 导演 是	n nz u n v	TAG TITLE O TAG O
+红楼梦87版 电视剧 导演 是 谁	nz n n v r	TITLE O TAG O O
+87 版 红楼梦 的 导演 是 谁	m n nz u n v r	O O TITLE O TAG O O
+我 想 知道 蜗居 的 导演 是 谁	r v v nz u n v r	O O O TITLE O TAG O O
+中国新说唱 的 导演	nz u n	TITLE O TAG
+中国新说唱 导演 叫 什么	nz n v r	TITLE TAG O O
+一出好戏 导演 是 谁	nz n v r	TITLE TAG O O
+一出好戏 的 导演 的 名字 叫	nz u n u n v	TITLE O TAG O O O
+橙红年代 的 导演 叫 什么	nz u n v r	TITLE O TAG O O
+武林外传 是 谁 导演 的 呢	nz v r v u y	TITLE O O TAG O O
+战地枪王 的 导演 是 谁	nz u n v r	TITLE O TAG O O
+这 部 片 是 谁 导演 的	r q ng v r n u	O O O O O TAG O
+神探狄仁杰 的 导演	nz u n	TITLE O TAG
+家庭秘密 的 导演 叫 什么	nz u n v r	TITLE O TAG O O
+是 谁 导 的 辛德勒 名单	v r vg u nr n	O O O O TITLE O
+谁 是 这 片 的 导演	r v r q u n	O O O O O TAG
+我 想 知道 导演 是 谁	r v v n v r	O O O TAG O O
+美人鱼 导演 是 谁 呢	nz n v r y	TITLE TAG O O O
+我的邻居是美女 的 导演 是 哪个	nz u n v r	TITLE O TAG O O
+战狼 的 导演	nz u n	TITLE O TAG
+战狼2 导演	nz n	TITLE TAG
+无间道 是 谁 拍 的	nz v r v u	TITLE O O O O
+西游记女儿国 导演 是 谁	nz n v r	TITLE TAG O O
+捉妖记2 导演	nz n	TITLE TAG
+宇宙有爱浪漫同游 的 导演	nz u n	TITLE O TAG
+奇门遁甲 的 导演	nz u n	TITLE O TAG
+解忧杂货店 的 导演	nz u n	TITLE O TAG
+电影 芳华 的 导演	n nz u n	O TITLE O TAG
+栋笃特工 电影 的 导演	nz n u n	TITLE O O TAG
+赤壁 的 编剧 是 哪个 呢	nz u n v r y	TITLE O TAG O O O
+电影 赤壁 的 编剧 是 谁	n nz u n v r	O TITLE O TAG O O
+七龙珠 的 编剧 是 谁	n u n v r	TITLE O TAG O O
+电影 神话 的 编剧	n nz u n	O TITLE O TAG
+电视剧 神话 的 编剧 是 谁	n nz u n v r	O TITLE O TAG O O
+韩剧 皇太子的初恋 编剧 是 谁	n nz n v r	O TITLE TAG O O
+生死迷局 编剧 是 谁	nz n v r	TITLE TAG O O
+新 拍 的 电视剧 神话 编剧 是 谁 啊	a ng u n nz n v r y	O O O O TITLE TAG O O O
+机器侠 编剧 是 谁	nz n v r	TITLE TAG O O
+特殊使命 的 编剧	nz u n	TITLE O TAG
+龙门飞甲 电影 的 编剧 是 谁	nz n u n v r	TITLE O O TAG O O
+还珠格格 的 编剧 是 谁 啊	nz u n v r y	TITLE O TAG O O O
+猫的报恩 编剧 是 谁	nz n v r	TITLE TAG O O
+快乐星球 编剧 是 谁	nz n v r	TITLE TAG O O
+少林寺 编剧 是 谁	nz n v r	TITLE TAG O O
+大清后宫之还君明珠 的 编剧 是 谁	nz u n v r	TITLE O TAG O O
+线人 是 谁 编剧 的	nz v r n u	TITLE O O TAG O
+康熙微服私访记 的 编剧 是 谁	nz u n v r	TITLE O TAG O O
+人在囧途 编剧 是 谁	nz n v r	TITLE TAG O O
+铁梨花 编剧 叫 什么 啊	nz n v r y	TITLE TAG O O O
+杨贵妃秘史 编剧 是 谁 啊	nz n v r y	TITLE TAG O O O
+电影 低俗小说 的 编剧 是 谁	n nz u n v r	O TITLE O TAG O O
+暮光之城 编剧	nz n	TITLE TAG
+武林外传 的 编剧	nz u n	TITLE O TAG
+电影 复仇者联盟 的 编剧 是	n nz u n v	TAG TITLE O TAG O
+红楼梦87版 电视剧 编剧 是 谁	nz n n v r	TITLE O TAG O O
+87 版 红楼梦 的 制片人 是 谁	m n nz u n v r	O O TITLE O TAG O O
+我 想 知道 蜗居 的 制片人 是 谁	r v v nz u n v r	O O O TITLE O TAG O O
+奶娘 的 制片人 是 谁 啊	nz u n v r y	TITLE O TAG O O O
+侏罗纪 电影 的 制片人 叫 什么 名字	t n u n v r n	TITLE O O TAG O O O
+娘道 制片人 是 谁 呢	nz n v r y	TITLE TAG O O O
+中国新说唱 的 制片人	nz u n	TITLE O TAG
+中国新说唱 制片人 叫 什么	nz n v r	TITLE TAG O O
+一出好戏 制片人 是 谁	nz n v r	TITLE TAG O O
+一出好戏 的 制片人 的 名字 叫	nz u n u n v	TITLE O TAG O O O
+狄仁杰 制片人	nz n	TITLE TAG
+李茶的姑妈 的 制片人 是 谁	nz u n v r	TITLE O TAG O O
+捉妖记 制片人 是 谁	nz n v r	TITLE TAG O O
+橙红年代 的 制片人 叫 什么	nz u n v r	TITLE O TAG O O
+武林外传 是 谁 制片 的 呢	nz v r v u y	TITLE O O TAG O O
+战地枪王 的 制片人 是 谁	nz u n v r	TITLE O TAG O O
+这 部 片 是 谁 制片 的	r q ng v r n u	O O O O O TAG O
+这个 电视剧 的 制片人 是 谁	r n u n v r	O O O TAG O O
+谁 是 这 部 电视剧 的 制片人	r v r q n u n	O O O O O O TAG
+这 部 片子 制片人 是 谁 啊	r q n n v r y	O O O TAG O O O
+神探狄仁杰 的 制片人	nz u n	TITLE O TAG
+我的邻居是美女 的 制片人 是 哪个	nz u n v r	TITLE O TAG O O
+战狼 的 制片人	nz u n	TITLE O TAG
+战狼2 制片人	nz n	TITLE TAG
+红海行动 的 制片人	nz u n	TITLE O TAG
+唐人街探案2 制片人 是	nz n v	TITLE TAG O
+宇宙有爱浪漫同游 的 制片人	nz u n	TITLE O TAG
+心理罪之城市之光 的 制片人	nz u n	TITLE O TAG
+妖猫传 的 制片人	nz u n	TITLE O TAG
+解忧杂货店 的 制片人	nz u n	TITLE O TAG
+电影 芳华 的 制片人	n nz u n	O TITLE O TAG
+栋笃特工 电影 的 制片人	nz n u n	TITLE O O TAG
+a计划 的 主演 是 谁	nz u n v r	TITLE O O O O
+冒险片 a计划 谁 主演	n nz r v	TAG TITLE O O
+你是我的命运 金 泰丰 的 扮演者	nz ng ns u n	TITLE NAME NAME O O
+侠客行 谁 主演 啊 大陆 版 的	nz r v y n n u	TITLE O O O O O O
+侠客 行里 叮当 是 谁 扮演 的	n n n v r v u	TITLE O NAME O O O O
+假装情侣 谁 主演 的	nz r v u	TITLE O O O
+电影 假装情侣 里面 的 沈露 谁 演 的	n nz f u nr r v u	O TITLE O O NAME O O O
+演 假装情侣 男声 是 谁	v nz n v r	O TITLE O O O
+僵尸先生 是 谁 主演	nz v r v	TITLE O O O
+八星抱喜 的 男 女主角	nz u b n	TITLE O TAG TAG
+天下无双 的 主演 是 谁	nz u n v r	TITLE O O O O
+天国的阶梯 男主角 是 谁	nz n v r	TITLE TAG O O
+天国的阶梯 的 男主角 是 谁 扮演 的	nz u n v r v u	TITLE O TAG O O O O
+天国的阶梯 韩 有 莉 小 演员 的 扮演者	nz nr v ng a n u n	TITLE NAME NAME NAME O O O O
+天国的阶梯 扮演 莉莉 的 演员	nz v nr u n	TITLE O NAME O O
+寻找成龙 的 主演 是 谁	nz u n v r	TITLE O O O O
+开心鬼撞鬼 女主角 叫 什么	nz n v r	TITLE TAG O O
+拍 开心鬼撞鬼 的 女 主叫 什么	v nz u b v r	O TITLE O TAG O O
+我是谁 是 谁 主演	nz v r v	TITLE O O O
+电影 我是谁 是 谁 主演	n nz v r v	O TITLE O O O
+我是谁 是 谁 演 的	nz v r v u	TITLE O O O O
+我是谁 的 主演 是 谁	nz u n v r	TITLE O O O O
+我是谁 是 谁 主演	nz v r v	TITLE O O O
+我是谁 电影 谁 主演 的	nz n r v u	TITLE O O O O
+我是谁 这 部 电影 是 谁 主演 的	nz r q n v r v u	TITLE O O O O O O O
+电影 我是谁 的 主演 是 哪个	n nz u n v r	O TITLE O O O O
+我是谁 的 主演 是 谁	nz u n v r	TITLE O O O O
+电视剧 李卫当官 谁 主演	n nz r v	O TITLE O O
+无懈可击之美女如云 男主角	nz n	TITLE TAG
+李卫当官 中 的 李卫 是 谁 演 的	nz f u nr v r v u	TITLE O O NAME O O O O
+真爱之吻 的 女主角 叫 什么	nz u n v r	TITLE O TAG O O
+王者之剑 里 的 男主角 叫 什么	nz f u n v r	TITLE O O TAG O O
+游侠 电影 女主角 叫 什么	n n n v r	TITLE TAG TAG O O
+离婚前规则 谁 演 李小凡	nz r v nr	TITLE O O NAME
+离婚前规则 张小凡 扮演者 是 谁	nz nr n v r	TITLE NAME O O O
+离婚前规则 中小凡 的 扮演者 是	nz j u n v	TITLE NAME O O O
+电影 致命性 圈 演员 名字	n n n n n	O TITLE TITLE O O
+长江7号 谁 主演	nz r v	TITLE O O
+阿容 的 主演 是 谁	nr u n v r	TITLE O O O O
+魔戒 中 的 精灵王 是 谁 演 的	nz f u n v r v u	TITLE O NAME O O O O O
+乌龙闯情关 中 的 女主角 是 谁	nz f u n v r	TITLE O O TAG O O
+加勒比海盗4 的 演员 是 谁	nz u n v r	TITLE O O O O
+后宫 是 谁 主演 的	n v r v u	TITLE O O O O
+唐山大地震 中 丫丫 是 谁 演 的	nz f nr v r v u	TITLE O NAME O O O O
+唐山大地震 主演 都 有 谁	nz n d v r	TITLE O O O O
+唐山大地震 中方 登 的 扮演者	nz n v u n	TITLE NAME NAME O O
+唐山大地震 的 主演 谁 啊	nz u n r y	TITLE O O O O
+唐山大地震 电影 中 饰演 王登 的 是 谁 啊	nz n f v nr u v r y	TITLE O O O NAME O O O O
+唐山大地震 的 演员	nz u n	TITLE O O
+唐山大地震 主演 都 是 谁	nz n d v r	TITLE O O O O
+唐山大地震 中方 达 的 扮演者	nz n v u n	TITLE NAME NAME O O
+我愿意 谁 是 主演	nz r v n	TITLE O O O
+我愿意 是 谁 主演 的 啊	nz v r v u y	TITLE O O O O O
+新京城四少 里 叶 姑娘 是 谁 演 的	nz f ng n v r v u	TITLE O NAME NAME O O O O
+昭君出塞 大汉 王后 是 谁 主演	nz n n v r v	TITLE NAME NAME O O O
+犀利人妻 的 女主角 叫 什么 名字	nz u n v r n	TITLE O TAG O O O
+穿越时空的爱恋 的 主演 是 谁	nz u n v r	TITLE O O O O
+寻龙诀 的 是 谁 主演 的	nz u v r v u	TITLE O O O O O
+闪光少女 的 主演 有 哪些 人	nz u n v r n	TITLE O O O O O
+逃学威龙 的 男主角 是 谁 啊	nz u n v r y	TITLE O TAG O O O
+谁 是 寻龙诀 的 女主角	r v nz u n	O O TITLE O TAG
+羞羞的铁拳 的 主演 有 哪些 啊	nz u n v r y	TITLE O O O O O
+能 告诉 我 西游记女儿国 的 主要 演员 么	v v r nz u b n y	O O O TITLE O O O O
+最 新 狄仁杰 的 主演 有 谁 啊	d a nz u n v r y	O O TITLE O O O O O
+英伦对决 的 主演	nz u n	TITLE O O
+这 就 是 命 的 男 主叫 什么 啊	r d v n u b v r y	TITLE TITLE TITLE TITLE O TAG O O O
+老九门 的 女 主叫 啥 呢	nz u b v r y	TITLE O TAG O O O
+小王子 男 主 是 谁	n b bg v r	TITLE TAG TAG O O
+火线传奇 的 男 主叫 什么	nz u b v r	TITLE O TAG O O
+葫芦娃 男 主 是 谁	nr b bg v r	TITLE TAG TAG O O
+憨豆先生 是 谁 扮演 的	nz v r v u	NAME O O O O
+美人鱼 的 男主角 是 谁	nz u n v r	TITLE O TAG O O
+谁 是 美人鱼 的 女 主	r v nz u b n	O O TITLE O TAG TAG
+美人鱼 的 女 主 是 谁	nz u b n v r	TITLE O TAG TAG O O
+泄密者 女 猪脚 有 哪些	n b n v r	TITLE TAG O O O
+兄弟班 的 主演 都 有 谁	nz u n d v r	TITLE O O O O O
+欧洲攻略 的 主演	nz u n	TITLE O O
+无问 东西 主角	nz n n	TITLE TITLE O
+非同凡响 的 主演	nz u n	TITLE O O
+黄金花 的 男 女主角	nz u b n	TITLE O TAG TAG
+幸福路 上 的 女 主 是 谁	ns f u b n v r	TITLE O O TAG TAG O O
+前任3 的 男 主 有 哪些	nz u b bg v r	TITLE O TAG TAG O O
+中 英路 1 号 的 主演	j nr m q u n	TITLE TITLE TITLE TITLE O O
+大师兄 的 主演 是 谁	n u n v r	TITLE O O O O
+伪装者 的 女 主叫 什么 名字	nz u b v r n	TITLE O TAG O O O
+谁 是 朱茵 的 老公	r v nr u n	O O NAME O TAG
+谁 是 朱茵 的 同学	r v nr u n	O O NAME O TAG
+朱茵 的 好友 有 哪些	nr u n v r	NAME O TAG O O
+朱茵 的 同学 有 哪些	nr u n v r	NAME O TAG O O
+哪些 人 是 朱茵 的 好 朋友	r n v nr u a n	O O O NAME O O TAG
+周星驰 的 好友 有 哪些 人	nr u n v r n	NAME O TAG O O O
+周星驰 的 好友	nr u n	NAME O TAG
+袁姗姗 的 前男友 是 哪个	nr u n v r	NAME O TAG O O
+袁姗姗 的 圈 内 朋友 有 哪些	nr u n f n v r	NAME O O O TAG O O
+袁姗姗 的 圈 内 好友	nr u n f n	NAME O O O TAG
+周杰伦 的 老婆 是 谁	nr u n v r	NAME O TAG O O
+周杰伦 老婆	nr n	NAME TAG
+周杰伦 的 老婆 叫 什么	nr u n v r	NAME O TAG O O
+周杰伦 老婆 的 名字	nr n u n	NAME TAG O O
+周杰伦 同学 的 名字	nr n u n	NAME TAG O O
+周杰伦 前 女友 是 谁 啊	nr f n v r y	NAME TAG TAG O O O
+刘涛 的 老公 是 谁	nr u n v r	NAME O TAG O O
+刘涛 丈夫 是 哪个	nr n v r	NAME TAG O O
+刘涛 的 女儿 叫 什么 呢	nr u n v r y	NAME O TAG O O O
+范冰冰 的 男朋友 是 谁	nr u n v r	NAME O TAG O O
+范冰冰 的 绯闻男友 有 哪些	nr u n v r	NAME O TAG O O
+谁 和 范冰冰 合作 过	r c nr v u	O O NAME TAG O
+谁 和 杨幂 合作 过	r c nr v u	O O NAME TAG O
+谁 和 成龙 合作 过	r c nr v u	O O NAME TAG O
+谁 是 周迅 的 老搭档	r v nr u n	O O NAME O TAG
+周迅 和 哪些 人 合作 过	nr c r n v u	NAME O O O TAG O
+朱迅 和 谁 是 搭档	nr c r v n	NAME O O O TAG
+钱枫 现在 的 搭档 是 谁	nr t u n v r	NAME TIME O TAG O O
+周杰伦 和 谁 合作 最 多	nr c r v d a	NAME O O TAG O O
+周杰伦 和 谁 合作 过	nr c r v u	NAME O O TAG O
+郑爽 现在 男友 是 谁	nr t n v r	NAME TIME TAG O O
+张翰 的 女朋友 是 那个	nr u n v r	NAME O TAG O O
+张翰 的 女友 是 谁 啊	nr u n v r y	NAME O TAG O O O
+谁 是 罗志祥 的 绯闻 女友	r v nr u n n	O O NAME O TAG TAG
+谁 是 罗志祥 的 好 朋友	r v nr u a n	O O NAME O O TAG
+陈赫 的 朋友 有 哪些	nr u n v r	NAME O TAG O O
+欧弟 的 好友	nr u n	NAME O TAG
+欧弟 的 老师	nr u n	NAME O TAG
+欧弟 的 同学	nr u n	NAME O TAG
+欧弟 的 老婆	nr u n	NAME O TAG
+欧弟 的 妻子 是 谁	nr u n v r	NAME O TAG O O
+欧弟 女儿 叫 什么	nr n v r	NAME TAG O O
+孙俪 的 老公 是 谁 呢	nr u n v r y	NAME O TAG O O O
+孙俪 的 老公 是 哪个 啊	nr u n v r y	NAME O TAG O O O
+孙俪 的 老公 的 名字 是	nr u n u n v	NAME O TAG O O O
+孙俪 和 儿子 叫 什么	nr c n v r	NAME O TAG O O
+我 想 知道 周迅 的 老公 叫 啥	r v v nr u n v r	O O O NAME O TAG O O
+刘德华 的 妻子 叫 啥 呢	nr u n v r y	NAME O TAG O O O
+你 知道 任达华 的 老婆 叫 什么 吗	r v nr u n v r y	O O NAME O TAG O O O
+古天乐 的 老婆 是 谁	nr u n v r	NAME O TAG O O
+谁 是 古天乐 的 前 女友	r v nr u f n	O O NAME O TAG TAG
+陈小春 老婆 叫 什么 名字 啊	nr n v r n y	NAME TAG O O O O
+李呈媛 的 男友 是 谁 啊	nr u n v r y	NAME O TAG O O O
+宋小宝 老婆 叫 什么 啊	nr n v r y	NAME TAG O O O
+宋小宝 的 老婆 叫 什么 啊	nr u n v r y	NAME O TAG O O O
+宋小宝 的 老婆 叫 什么 呢	nr u n v r y	NAME O TAG O O O
+百克力 的 女友 是 谁 啊	nr u n v r y	NAME O O TAG O O
+百克力 女友 是 谁 呢	nr n v r y	NAME TAG O O O
+谁 是 石安妮 男友 呢	r v nr n y	O O NAME TAG O
+谁 是 石安妮 同学 呢	r v nr n y	O O NAME TAG O
+谁 是 柴浩伟 的 老师 啊	r v nr u n y	O O NAME O TAG O
+告诉 我 何欢 的 前男友 是 谁 吧	v r nr u n v r y	O O NAME O TAG O O O
+李易峰 女朋友 是 谁	nr n v r	NAME TAG O O
+陈伟霆 老婆 是 谁	nr n v r	NAME TAG O O
+谁 是 朱一龙 女朋友	r v nr n	O O NAME TAG
+谁 是 吴亦凡 前 女友	r v nr f n	O O NAME TAG TAG
+谁 是 郑爽 男朋友	r v nr n	O O NAME TAG
+郑爽 男友 是 谁	nr n v r	NAME TAG O O
+范丞丞 女友 是 谁 啊	nr n v r y	NAME TAG O O O
+谁 是 任贤齐 的 老婆	r v nr u n	O O NAME O TAG
+哪些 人 是 任贤齐 的 圈 内 好友	r n v nr u n f n	O O O NAME O O O TAG 
+谁 是 黄珊珊 的 前 女友	r v nr u f n	O O NAME O TAG TAG 
+何洁 老公 是 谁	nr n v r	NAME TAG O O
+谁 是 何洁 老公 啊	r v nr n y	O O NAME TAG O
+胡可 的 老公 叫 什么	nr u n v r	NAME O TAG O O
+刘涛 的 老公 叫 啥	nr u n v r	NAME O TAG O O
+董洁 的 老公 叫 什么 呢	nr u n v r y	NAME O TAG O O O
+谁 是 董洁 老公 啊	r v nr n y	O O NAME TAG O
+天气 怎么样	n r	O O
+上海 一直 下雨	ns d v	LOCATION O O
+宝山 有 冰雹 天气	ns v n n	LOCATION O O O
+江苏 又 大暴雨	ns d n	LOCATION O O
+上海 今天 天气 怎样	ns t n r	LOCATION TIME O O
+北京 未来 一 周 都 有 雨 吗	ns t m q d v n y	LOCATION TIME TIME TIME O O O O
+上海 明天 高温	ns t n	LOCATION TIME O
+重庆 明天 阴天 吗	ns t n y	LOCATION TIME O O
+武汉 明天 有 雨 吗	ns t v n y	LOCATION TIME O O O
+明天 是 晴天 吗	t v n y	TIME O O O
+上海 今日 有 大风 吗	ns t v n y	LOCATION TIME O O O
+浙江 明天 会 有 大雾 吗	ns t v v n y	LOCATION TIME O O O O
+沈阳 最近 有 雨夹雪 吗	ns t v n y	LOCATION TIME O O O
+今天 空气 适合 跑步 吗	t n v v y	TIME O O O O
+适合 穿 短裤 吗	v v n y	O O O O
+今天 适合 穿 什么	t v v r	TIME O O O
+今天 能 洗 车 吗	t v v n y	TIME O O O O
+明天 天气 适合 外出 打球	t n v v v	TIME O O O O
+明天 天气 可以 去 故宫 旅游 吗	t n v v ns vn y	TIME O O O O O O
+最近 天气 容易 导致 感冒 吗	t n a v v y	TIME O O O O O
+天气 好 吗	n a y	O O O
+成都 下雨 吗	ns v y	LOCATION O O
+深圳 晴天	ns n	LOCATION O
+静安区 高温	ns n	LOCATION O
+河南 阴天	ns n	LOCATION O
+福建 昨天 下 了 一 天雨	ns t v u m nr	LOCATION TIME O O O O
+广州 这个 月 很 热	ns r n d k	LOCATION TIME TIME O O
+天津 这 一 周 高温 吗	ns r m q n y	LOCATION TIME TIME TIME O O
+香港 今天 阴天 吗	ns t n y	LOCATION TIME O O
+武汉 今天 晴天 吗	ns t n y	LOCATION TIME O O
+山东 今天 有 雨 吗	ns t v n y	LOCATION TIME O O O
+西安 下雪 了 吗	ns v y y	LOCATION O O O
+西城区 大雨 吗	ns n y	LOCATION O O
+湖北 下雪 吗	ns n y	LOCATION O O
+辽宁 这个 礼拜 冷 吗	ns r n a y	LOCATION TIME TIME O O
+佛山 一整天 都 是 阴天	ns t d v n	LOCATION TIME O O O
+墨尔本 今天 晴天 吗	nz t n y	LOCATION TIME O O
+河北 最近 有点 冷	ns t d a	LOCATION TIME O O
+珠海 昨天 是 阴天	ns t v n	LOCATION TIME O O
+纽约 一直 下雨 吧	ns d v y	LOCATION O O O
+伦敦 有 大雾 吗	ns v n y	LOCATION O O O
+后天 的 天气	n u n	TIME O O
+明天 天气	t n	TIME O
+明天 下雨 吗	t v y	TIME O O
+明天 下 不 下雨 啊	t f d v y	TIME O O O O
+上海 下周 天气	ns t n	LOCATION TIME O
+下雨 吗 明天	v y t	O O TIME
+明天 天气 怎么样	t n r	TIME O O
+明天 天气 还 好 吧	t n d a y	TIME O O O O
+后天 天气	n n	TIME O
+后天 下 不 下雨 呀	n f d v y	TIME O O O O
+今天 下午 下雨 吗	t t v y	TIME TIME O O
+明天 早上 下 不 下雨 啊	t t f d v y	TIME TIME O O O O
+上海 今天 晚上 下雨 吗	ns t t v y	LOCATION TIME TIME O O
+告诉 我 北京 下周 天气	v r ns t n	O O LOCATION TIME O
+横店 明天 天气	ns t n	LOCATION TIME O
+北京 天气预报	ns n	LOCATION O
+江城 下周 天气	ns t n	LOCATION TIME O
+济阳 五 天 天气预报	ns m q n	LOCATION TIME TIME O
+泸州 未来 七 天 天气	ns t m q n	LOCATION TIME TIME TIME O
+赤水 下 个 礼拜 的 天气 情况	ns f q n u n n	LOCATION TIME TIME TIME O O O
+禹城 三 天 天气预报	nr m q n	LOCATION TIME TIME O
+三天 天气预报	nz n	TIME O
+未来 五 天 天气 情况	t m q n n	TIME TIME TIME O O
+未来 七 天 天气预报	t m q n	TIME TIME TIME O
+下周 天气预报	t n	TIME O
+下 个 礼拜 的 天气预报	f q n u n	O O O O O
+昌邑 下周 天气	ns t n	O TIME O
+耿马 后面 3 天 天气	nr f m q n	LOCATION TIME TIME TIME O
+三亚 接 下来 几 天 天气预报	ns v v m q n	LOCATION TIME TIME TIME TIME O
+下周 珠海 天气	t ns n	TIME LOCATION O
+湛江 明天 天气 怎么样	ns t n r	LOCATION TIME O O
+吴川 未来 几 天 天气 情况	nr t m q n n	LOCATION TIME TIME TIME O O
+龙海 天气预报	nr n	LOCATION O
+周二 天气 怎么样	nr n r	TIME O O
+周末 三亚 天气 怎样	t ns n r	TIME LOCATION O O
+下周 三 厦门 天气 好 不 好	t m ns n a d a	TIME TIME LOCATION O O O O
+周五 长沙 天气 情况	t ns n n	TIME O O O
+告诉 我 北京 下周一 天气 情况	v r ns t n n	O O LOCATION TIME O O
+下周 天气 咋样	t n r	TIME O O
+周五 天气 好 吗	t n a y	TIME O O O
+上海 周日 的 天气	ns t u n	LOCATION TIME O O
+无锡 周五 天气 情况	ns t n n	LOCATION TIME O O
+重庆 下周 二 的 天气	ns t m u n	LOCATION TIME TIME O O
+9月10 号 天气预报	m q n	TIME TIME O
+11 号 的 天气 情况	m q u n n	TIME TIME O O O
+10月24日 上海 天气	t ns n	TIME LOCATION O
+11月20 号 北京 天气	m q ns n	TIME TIME LOCATION O
+告诉 我 1月2 号 无锡 的 天气	v r m q ns u n	O O TIME TIME LOCATION O O
+请问 2月10 号 左右 宁波 的 天气 情况	v m q m ns u n n	O TIME TIME TIME LOCATION O O O
+请问 十一 期间 大连 天气	v m f ns n	O TIME O LOCATION O
+五一 青岛 天气	m ns n	TIME LOCATION O
+清明 杭州 天气预报	t ns n	TIME LOCATION O
+4月10 号 附近 衡阳 的 天气	m q f ns u n	TIME TIME TIME LOCATION O O
+6月1日 重庆 天气	t ns n	TIME LOCATION O
+五一 重庆 天气	m ns n	TIME LOCATION O
+十一 期间 成都 天气	m f ns n	TIME O LOCATION O
+国庆 期间 杭州 天气	t f ns n	TIME O LOCATION O
+六月 二十 号 天气 情况	n m q n n	TIME TIME TIME O O
+四月 一 号 宁波 天气	t m q ns n	TIME TIME TIME LOCATION O
+十二月 三十 福州 天气 好 吗	t m ns n a y	TIME TIME LOCATION O O O
+八月 八号 那天 济南 天气 好 吗	t nz r ns n a y	TIME TIME O LOCATION O O O
+七月 十二大阪 天气	t i n	TIME LOCATION O
+下周 二 上海 天气 好 么	t m ns n a y	TIME TIME LOCATION O O O
+下周一 上海 天气	n ns n	TIME LOCATION O
+下周 二 天气	t m n	TIME TIME O
+下周 五 厦门 天气 好 么	t m ns n a y	TIME TIME LOCATION O O O
+下周 末 的 天气 情况	t f u n n	TIME TIME O O O
+下周 六 成都 天气	t m ns n	TIME TIME LOCATION O
+杭州 周末 天气	ns t n	LOCATION TIME O
+济南 这 周末 天气预报	ns r t n	LOCATION TIME TIME O
+成都 这 周五 天气 情况	ns r t n n	LOCATION TIME TIME O O
+合肥 周天 天气	ns nr n	LOCATION TIME O
+济阳 下周 四 天气	ns t m n	LOCATION TIME TIME O
+芜湖 下周 天气预报	ns t n	LOCATION TIME O
+大盘 指数	n n	INDEX O
+百度 股价	nz n	COMPANY O
+中石油 当前 成交量	n t n	COMPANY TIME O
+中石油 今天 股票 行情	n t n n	COMPANY TIME O O
+中石化 股票 行情	j n n	COMPANY O O
+中石油 今天 行情	n t n	COMPANY O O
+中石油 今天 走势	n t n	COMPANY O O
+今天 乐视网 股价	t nz n	TIME COMPANY O
+今天 乐视网 成交量	t nz n	TIME COMPANY O
+今天 乐视网 行情	t nz n	TIME COMPANY O
+今天 乐视网 股票 走势	t nz n n	TIME COMPANY O O
+600028 股价	m n	COMPANY O
+600028 当前 股价	m t n	COMPANY TIME O
+600028 当前 成交量	m t n	COMPANY TIME O
+600028 今天 股票 行情	m t n n	COMPANY TIME O O
+600028 今天 行情	m t n	COMPANY O O
+600028 走势	m n	COMPANY O
+爱奇艺 股价	nz n	COMPANY O
+爱奇艺 当前 股价	nz t n	COMPANY TIME O
+爱奇艺 当前 成交量	nz t n	COMPANY TIME O
+爱奇艺 今天 股票 行情	nz t n n	COMPANY TIME O O
+爱奇艺 行情	nz n	COMPANY O
+爱奇艺 走势	nz n	COMPANY O
+中石油 股价	n n	COMPANY O
+中石油 当前 股价	n t n	COMPANY TIME O
+中石油 当前 成交量	n t n	COMPANY TIME O
+中石油 今天 股票 行情	n t n n	COMPANY TIME O O
+601857 股价	m n	COMPANY O
+601857 当前 股价	m t n	COMPANY TIME O
+601857 当前 成交量	m t n	COMPANY TIME O
+601857 今天 股票 行情	m t n n	COMPANY TIME O O
+601857 行情	m n	COMPANY O
+601857 今天 走势	m t n	COMPANY TIME O
+桂林 旅游 股价	ns vn n	COMPANY COMPANY O
+桂林 旅游 当前 股价	ns vn t n	COMPANY COMPANY TIME O
+桂林 旅游 当前 成交量	ns vn t n	COMPANY COMPANY TIME O
+桂林 旅游 今天 股票 行情	ns vn t n n	COMPANY COMPANY TIME O O
+桂林 旅游 市值	ns vn n	COMPANY COMPANY O
+桂林 旅游 股票 走势	ns vn n n	COMPANY COMPANY O O
+顺 网 科技 股价	p n n n	COMPANY COMPANY COMPANY O
+顺 网 科技 当前 股价	p n n t n	COMPANY COMPANY COMPANY TIME O
+顺 网 科技 当前 成交量	p n n t n	COMPANY COMPANY COMPANY TIME O
+顺 网 科技 今天 股票 行情	p n n t n n	COMPANY COMPANY COMPANY TIME O O
+顺 网 科技 市值	p n n n	COMPANY COMPANY COMPANY O
+顺 网 科技 股票 行情	p n n n n	COMPANY COMPANY COMPANY O O
+300113 股价	m n	COMPANY O
+300113 当前 股价	m t n	COMPANY TIME O
+300113 当前 成交量	m t n	COMPANY TIME O
+300113 今天 股票 行情	m t n n	COMPANY TIME O O
+300113 市值	m n	COMPANY O
+300114 股价	m n	COMPANY O
+300114 当前 股价	m t n	COMPANY TIME O
+300114 当前 成交量	m t n	COMPANY TIME O
+300114 今天 股票 行情	m t n n	COMPANY TIME O O
+300114 市值	m n	COMPANY O
+300123 股价	m n	COMPANY O
+300123 当前 股价	m t n	COMPANY TIME O
+300123 当前 成交量	m t n	COMPANY TIME O
+300123 今天 股票 行情	m t n n	COMPANY TIME O O
+300123 市值	m n	COMPANY O
+300123 当前 走势	m t n	COMPANY TIME O
+300123 当前 行情	m t n	COMPANY TIME O
+300123 今天 成交量	m t n	COMPANY TIME O
+中石化 股票 行情	j n n	COMPANY O O
+中石油 股票 行情	n n n	COMPANY O O
+中石油 股票 走势	n n n	COMPANY O O
+上证 指数	j n	INDEX O
+深证 成指 指数	j j n	INDEX INDEX O
+港股 指数	n n	INDEX O
+美股 指数	n n	INDEX O
+创业板 指数	n n	INDEX O
+新三板 指数	n n	INDEX O
+中国 石化 股价	ns j n	COMPANY COMPANY O
+中国 联合 通信 股份 有限公司 股价	ns v vn n n n	COMPANY COMPANY COMPANY O O O
+宝山 钢铁 股份 有限公司 股价	ns n n n n	COMPANY COMPANY O O O
+重庆 长安 汽车 股份 有限公司 股价	ns nz n n n n	LOCATION COMPANY COMPANY O O O
+华能 国际 电力 股份 有限公司 股价	nz n n n n n	COMPANY COMPANY COMPANY O O O
+上海 汽车 股份 有限公司 股价	ns n n n n	COMPANY COMPANY O O O
+中国 国际 海运 集装箱 集团 股份 有限公司 股价	ns n vn n n n n n	COMPANY COMPANY COMPANY COMPANY COMPANY O O O
+五矿 龙腾 科技 股份 有限公司 股价	j nz n n n n	COMPANY COMPANY COMPANY O O O
+哈药 集团 股份 股价	nz n n n	COMPANY COMPANY O O
+青岛 海尔 股份 股价	ns nz n n	LOCATION COMPANY O O
+宜宾 五粮液 股份 有限公司 股价	ns n n n n	LOCATION COMPANY O O O
+四川 长虹 电器 股份 有限公司 股价	ns nz n n n n	LOCATION COMPANY COMPANY O O O
+贵州 茅台酒 股份 有限公司 股价	ns n n n n	LOCATION COMPANY O O O
+安徽 海螺 水泥 股份 有限公司 股价	ns n n n n n	LOCATION COMPANY COMPANY O O O
+一汽 轿车 股份 有限公司 股价	j n n n n	COMPANY COMPANY O O O
+中国 石化 仪征化纤 股份 有限公司 股价	ns j i n n n	COMPANY COMPANY COMPANY O O O
+万科 企业 股份 股价	nz n n n	COMPANY COMPANY O O
+青岛 啤酒 股份 有限公司 股价	ns n n n n	COMPANY COMPANY O O O
+招商银行 股份 股价	nz n n	COMPANY O O
+内蒙古 伊利 实业 集团 股份 有限公司 股价	ns nz n n n n n	LOCATION COMPANY COMPANY O O O O
+北京 同仁堂 股份 有限公司 股价	ns nz n n n	LOCATION COMPANY O O O
+上海 光明 乳业 股价	ns n n n	LOCATION COMPANY O O
+中国 南方 航空 股份 有限公司 股价	ns f n n n n	COMPANY COMPANY COMPANY O O O
+江西 赣南 果业 股份 有限公司 股价	ns ns n n n n	LOCATION COMPANY COMPANY O O O
+广东 美的集团 股份 有限公司 股价	ns n n n n	LOCATION COMPANY O O O
+限行	v	O
+限行 情况	v n	O O
+限行 信息	v n	O O
+告诉 我 限行 的 情况	v r v u n	O O O O O
+上海 今天 限行	ns t v	LOCATION TIME O
+北京 明天 限行	ns t v	LOCATION TIME O
+重庆 昨天 限行	ns t v	LOCATION TIME O
+上海 今天 下午 限行	ns t t v	LOCATION TIME TIME O
+武汉 明天 也 限行	ns t d v	LOCATION TIME O O
+今天 限 号 是 尾 号 为 2	t v n v ng n v m	TIME O O O O O O O
+今天 限 号 尾 号	t v q ng q	TIME O O O O
+今天 限 号 尾 号	t v q ng q	TIME O O O O
+上海 明天 限行	ns t v	LOCATION TIME O
+北京 限行 信息	ns v n	LOCATION O O
+北京 限行 信息	ns v n	LOCATION O O
+上海 今天 限行 吗	ns t v y	LOCATION TIME O O
+今天 上海 限行 吗	t ns v y	TIME LOCATION O O
+今天 北京 限行 吗	t ns v y	TIME LOCATION O O
+明天 北京 限行 吗	t ns v y	TIME LOCATION O O
+北京 明天 限行 吗	ns t v y	LOCATION TIME O O
+后天 北京 限行 吗	t ns v y	TIME LOCATION O O
+北京 后天 限行 吗	ns n v y	LOCATION TIME O O
+明天 北京 限行 的 尾 号 是 1 吗	t ns v u ng n v m y	TIME LOCATION O O O O O O O
+今天 北京 限 不 限行	t ns ng d v	TIME LOCATION O O O
+明天 北京 限 不 限行	t ns ng d v	TIME LOCATION O O O
+今天 上海 限 不 限行	t ns ng d v	TIME LOCATION O O O
+明天 上海 限 不 限行	t ns ng d v	TIME LOCATION O O O
+上海 明天 全天 限行	ns t t v	LOCATION TIME O O
+北京 明天 全天 限行	ns t t v	LOCATION TIME O O
+上海 外地车 限行 吗	ns n v y	LOCATION O O O
+外地车 上海 限行 吗	n ns v y	O LOCATION O O
+北京 外地车 限行 吗	ns n v y	LOCATION O O O
+外地车 北京 限行 吗	n ns v y	O LOCATION O O
+上海 外地 车牌 限行 时间	ns s n v n	LOCATION O O O O
+2018 年 上海 限行 新 规定 及 限行 时间	m q ns v a n c v n	TIME TIME LOCATION O O O O O O
+上海 今天 不 限行 吗	ns t d v y	LOCATION TIME O O O
+北京 限行 最 新 通知	ns v d a n	LOCATION O O O O
+上海 限行 最 新 通知	ns v d a n	LOCATION O O O O
+广州 限行	ns v	LOCATION O
+深圳 限行	ns v	LOCATION O
+上海 外地 牌照 限行	ns s n v	LOCATION O O O
+上海 沪 c 限行	ns j nx v	LOCATION O O O
+上海 高架 限行	ns n v	LOCATION O O
+北京 外地 牌照 限行	ns s n v	LOCATION O O O
+上海 今天 不 限行	ns t d v	LOCATION TIME O O
+上海 限行 区域	ns v n	LOCATION O O
+北京 限行 区域	ns v n	LOCATION O O
+上海 限行 规定	ns v n	LOCATION O O
+北京 限行 规定	ns v n	LOCATION O O
+上海 限行 政策	ns v n	LOCATION O O
+北京 限行 政策	ns v n	LOCATION O O
+国庆 上海 限行 么	t ns v y	TIME LOCATION O O
+明天 北京 单 号 限行 么	t ns m q v y	TIME LOCATION O O O O
+成都 有 限行 么	ns v v y	LOCATION O O O
+清明 西安 限行 吗	t ns v y	TIME LOCATION O O
+杭州 节假日 限行 规定 是 怎样 的	ns t v v v r u	LOCATION TIME O O O O O
+告诉 我 明天 上海 限行 么	v r t ns v y	O O TIME LOCATION O O
+清明 北京 限行 吗	t ns v y	TIME LOCATION O O
+北京 中秋 限行 不 限行	ns t v d v	LOCATION TIME O O O
+端午节 上海 限行 不	t ns v d	TIME LOCATION O O
+国庆节 杭州 限行 么	t ns v y	TIME LOCATION O O
+请问 元旦 北京 限 不 限行	v t ns ng d v	O TIME LOCATION O O O
+我 想 知道 劳动节 深圳 限行 情况	r v v t ns v n	O O O TIME LOCATION O O
+春节 的 时候 深圳 限行 吗	t u n ns v y	TIME O O LOCATION O O
+周二 限行 么	nr v y	TIME O O
+周末 三亚 限行 吗	t ns v y	TIME LOCATION O O
+下周 三 厦 门限 不 限行 呢	t m ng n d v y	TIME TIME LOCATION LOCATION O O O
+周五 长沙 限行 吗	t ns v y	TIME LOCATION O O
+告诉 我 北京 下周一 限行 规定	v r ns n v n	O O LOCATION TIME O O
+周五 限行 吗	t v y	TIME O O
+无锡 周五 限行 么	ns t v y	LOCATION TIME O O
+重庆 下周 二 限行 吗	ns t m v y	LOCATION TIME O O O
+5 号 重庆 限行 吗	m q ns v y	TIME TIME LOCATION O O
+14 号 北京 限行 么	m q ns v y	TIME TIME LOCATION O O
+8月1 号 北京 限行 么	m q ns v y	TIME TIME LOCATION O O
+2月14日 杭州 限 不 限行	t ns ng d v	TIME LOCATION O O O
+十一 期间 青岛 限行 吗	m f ns v y	TIME O LOCATION O O
+五一 期间 限行 吗	m f v y	TIME O O O
+十月 一 号 那天 上海 限行 吗	t m q r ns v y	TIME TIME TIME O LOCATION O O
+四月 十 号 限行 么	t m q v y	TIME TIME TIME O O
+五月 三十 那天 限行 吗	t m r v y	TIME TIME O O O
+九月 十一 杭州 限行 吗	t m ns v y	TIME TIME LOCATION O O
+十二月 二十 号 北京 限 不 限行 呢	t m q ns ng d v y	TIME TIME TIME LOCATION O O O O
+下周 二 上海 限行 吗	t m ns v y	TIME TIME LOCATION O O
+北京 下周 五 限 不 限行	ns t m ng d v	LOCATION TIME TIME O O O
+下周一 沈阳 限行 情况	n ns v n	TIME LOCATION O O
+周天 上海 限行 吗	nr ns v y	TIME LOCATION O O
+下周 末 北京 限行 吗	t f ns v y	TIME TIME LOCATION O O
+周末 天津 限行 么	t ns v y	TIME LOCATION O O
+下周 六 贵阳 限行 吗	t m ns v y	TIME TIME LOCATION O O
+下周 三 限行 吗	t m v y	TIME TIME O O
+长春 下周 五 限行 政策	ns t m v n	LOCATION TIME TIME O O
+周四 限 不 限行	t v d v	TIME O O O
+一月 一 号 那天 芜湖 限行 吗	t m q r ns v y	TIME TIME TIME O LOCATION O O
+春节 期间 深圳 限行 吗	t f ns v y	TIME O LOCATION O O
+春节 上海 限行 么	t ns v y	TIME LOCATION O O
+长春 限行 政策	ns v n	LOCATION O O
+跳转 到 画 骨 夫妇 相遇 的 片段	v p n ng n v u n	O O PLOT PLOT PLOT PLOT O O
+跳转 到 周星驰 出现 的 片段	v p nr v u n	O O NAME O O O
+我 要 看 赵丽颖 出场 的 那 段	r v v nr v u r q	O O O NAME PLOT O O O
+我 要 看 赵丽颖 哭 的 那 段	r v v nr v u r q	O O O NAME PLOT O O O
+我 要 看 杨幂 和 黄子韬 拥抱 的 那 段	r v v nr c nr v u r q	O O O NAME O NAME PLOT O O O
+我 要 看 臣妾做不到啊 的 那 段	r v v nz u r q	O O O PLOT O O O
+我 要 看 真相大白 的 那 段	r v v i u r q	O O O PLOT O O O
+跳转 到 一生所爱 响起 的 片段	v p nz v u n	O O PLOT PLOT O O
+我 要 看 梁朝伟 被 一 枪 打中 头部 的 那 段	r v v nr p m q v n u r q	O O O NAME PLOT PLOT PLOT PLOT PLOT O O O
+直接 放 黄秋生 从 楼顶 被 扔 下来 那 段 眼 神戏	ad v nr p n p v v r q n n	O O NAME PLOT PLOT PLOT PLOT PLOT O O O O
+直接 跳 到 学生 一起 站 在 桌上 那里	ad v p n d v p s r	O O O TAG PLOT PLOT PLOT PLOT O
+跳转 到 洪金宝 被 围攻 那里	v p nr p v r	O O NAME PLOT PLOT O
+跳转 到 下雪 那里	v p n r	O O PLOT O
+我 要 看 开头 那 一 段	r v v n r m q	O O O O O O O
+直接 放 结尾 片段	ad v n n	O O O O
+给 我 放 周星驰 被 导演 耍大牌 那 段	p r v nr p n n r q	O O O NAME PLOT PLOT PLOT O O
+给 我 看 周星驰 心里 独白 那 段	p r v nr s a r q	O O O NAME PLOT PLOT O O
+我 要 看 周星驰 和 张柏芝 在 树 下 那 段	r v v nr c nr p n f r q	O O O NAME O NAME PLOT PLOT PLOT O O
+我 要 看 马 亨达 被 一 家 灭门 那 段	r v v n nr p m q n r q	O O O NAME NAME PLOT PLOT PLOT PLOT O O
+放 程蝶衣 烧 戏 服 的 那 一 段	v n v n v u r m q	O NAME PLOT PLOT PLOT O O O O
+放 我 养 你 啊 的 那 段	v r v r y u r q	O PLOT PLOT PLOT PLOT O O O
+我 要 看 至尊宝 和 紫霞 在 城墙 上 的 那 段	r v v nr c n p n f u r q	O O O NAME O NAME PLOT PLOT PLOT O O O
+跳转 到 孙悟空 踩 七彩 祥云 的 那 段	v p nr v n nr u r q	O O NAME PLOT PLOT PLOT O O O
+直接 放 段天涯 刚 出场 的 收 刀 式	ad v nr d v u v n k	O O NAME PLOT PLOT PLOT PLOT PLOT PLOT
+我 想 看 王宝强 的 动作 戏	r v v nr u n n	O O O NAME O O O
+我 想 看 王宝强 的 搞笑 片段	r v v nr u vn n	O O O NAME O O O
+我 要 看 张雨绮 的 亲热戏	r v v nr u n	O O O NAME O O
+我 要 从 情节 翻转 的 部分 开始 看	r v p n v u n v v	O O O PLOT PLOT O O O O
+我 要 从 刘昊然 开始 推理 的 地方 开始 看	r v p nr v v u n v v	O O O NAME PLOT PLOT O O O O
+我 要 看 结尾 的 彩蛋	r v v n u n	O O O O O O
+我 想 看 结尾 的 彩蛋	r v v n u n	O O O O O O
+跳转 到 真相大白 的 片段	v p i u n	O O PLOT O O
+我 要 从 肖央 被 怀疑 开始 看	r v p nr p v v v	O O O NAME PLOT PLOT O O
+我 要 看 三 人 一起 走 出来 那 段	r v v m n s v v r q	O O O PLOT PLOT PLOT PLOT PLOT O O
+直接 放 成龙 的 动作 戏	ad v nr u n n	O O NAME O O O
+从 成龙 被害 开始 放	p nr vn v v	O NAME PLOT O O
+放 成龙 跑酷 那 段	v nr v r q	O NAME PLOT O O
+放 张国荣 在 桥 上 抽烟 那 段	v nr p n f v r q	O NAME PLOT PLOT PLOT PLOT O O
+我 要 看 张国荣 骑 摩托车	r v v nr v n	O O O NAME PLOT PLOT
+我 要 看 成龙 一个 打 十 个 的 那 段 打戏	r v v nr m v m q u r q n	O O O NAME PLOT PLOT PLOT PLOT O O O O
+我 要 看 穿帮 的 镜头	r v v v u n	O O O O O O
+直接 放 穿帮 的 那里	ad v v u r	O O O O O
+从 下雪 那里 开始 放	p n r v v	O PLOT O O O
+我 想 直接 看 结尾	r v ad v n	O O O O O
+跳转 到 大家 送别 燕小六 的 片段	v p r v nr u n	O O PLOT PLOT NAME O O
+我 要 看 林更新 出场 的 那 段	r v v nr v u r q	O O O NAME PLOT O O O
+我 要 看 林更新 哭 的 那 段	r v v nr v u r q	O O O NAME PLOT O O O
+我 要 看 林更新 和 林允儿 拥抱 的 那 段	r v v nr c nr v u r q	O O O NAME O NAME PLOT O O O
+我 要 看 念 诗 的 那 段	r v v v n u r q	O O O PLOT PLOT O O O
+我 要 看 故事 的 高潮 部分	r v v n u n n	O O O PLOT PLOT PLOT O
+跳转 到 成龙 跳 车 的 片段	v v nr v n u n	O O NAME PLOT PLOT O O
+我 要 看 梁朝伟 和 刘德华 在 楼顶 的 那 段	r v v nr c nr p n u r q	O O O NAME O NAME PLOT PLOT O O O
+直接 放 黄渤 的 眼神 戏	ad v nr u n n	O O NAME O O O
+直接 放 徐峥 出场 那里	ad v nr v r	O O NAME PLOT O
+直接 跳 到 黄渤 和 徐峥 的 对手戏	ad v v nr c nr u n	O O O NAME O NAME O O
+跳转 到 李易峰 被 关 到 小黑屋 那里	v p nr p v v n r	O O NAME PLOT PLOT PLOT PLOT O
+跳 到 小刀会序曲 响起 的 地方	v p nz v u n	O O TITLE O O O
+我 要 看 徐峥 被 戳穿 那 一 段	r v v nr p v r m q	O O O NAME PLOT PLOT O O O
+直接 放 火场 救人 那 段	ad v n v r q	O O PLOT PLOT O O
+给 我 放 沈腾 换装 那 段	p r v nr v r q	O O O NAME PLOT O O
+给 我 看 李易峰 心里 独白 那 段	p r v nr s a r q	O O O NAME PLOT PLOT O O
+我 要 看 刘亦菲 出场 那 段	r v v nr v r q	O O O NAME PLOT O O
+我 要 看 少林寺 被 灭门 那 段	r v v nz p n r q	O O O TAG PLOT PLOT O O
+放 洪金宝 和 黑帮 打 的 那 一 段	v nr c n v u r m q	O NAME PLOT PLOT PLOT O O O O
+放 吕子乔 醒悟 的 那 段	v nr v u r q	O NAME PLOT O O O
+我 要 看 曾小贤 和 诺兰 在一起 的 那 段	r v v nr c nr nz u r q	O O O NAME O NAME PLOT O O O
+跳转 到 求婚 的 那 段	v p v u r q	O O PLOT O O O
+直接 放 到 南极 那里	ad v v ns r	O O PLOT PLOT O
+我 想 看 李连杰 的 动作 戏	r v v nr u n n	O O O NAME O O O
+我 想 看 黄渤 的 搞笑 片段	r v v nr u vn n	O O O NAME O O O
+我 要 看 胡歌 的 出场 部分	r v v nr u vn n	O O O NAME O PLOT O
+我 要 从 周润发 被 枪击 开始 看	r v p nr p v v v	O O O NAME PLOT PLOT O O
+我 要 从 周迅 披 上 画皮 的 地方 开始 看	r v p nr v f nz u n v v	O O O NAME PLOT PLOT PLOT O O O O
+直接 放 结尾 的 彩蛋	ad v n u n	O O O O O
+我 想 看 真相大白 的 部分	r v v i u n	O O O PLOT O O
+跳转 到 黄渤 快 饿 死 那里	v p nr d v v r	O O NAME PLOT PLOT PLOT O
+我 要 从 黄渤 开始 养 牛 开始 看	r v p nr v v n v v	O O O NAME PLOT PLOT PLOT O O
+我 要 看 吕秀才 逼死 姬无命 那 段	r v v nr v n r q	O O O NAME PLOT NAME O O
+直接 放 甄子丹 的 动作 戏	ad v nr u n n	O O NAME O O O
+从 黄秋生 被害 开始 放	p nr vn v v	O NAME PLOT O O
+放 张国荣 唱 京剧 那 段	v nr v n r q	O NAME PLOT PLOT O O
+放 吕秀才 和 郭芙蓉 互怼 的 部分	v nr c nr vn u n	O NAME O NAME PLOT O O
+我 要 看 白展堂 告白	r v v nr v	O O O NAME PLOT
+我 要 看 郭芙蓉 欺负 吕秀才 的 那 段 戏	r v v nr v nr u r q n	O O O NAME PLOT NAME O O O O
+从 白展堂 和 佟湘玉 闹 分手 开始 播	p nr c nr v v v v	O NAME O NAME PLOT PLOT O O
+直接 放 老白 假扮 黄豆豆 的 那里	ad v nr v nr u r	O O NAME PLOT NAME O O
+从 柳星雨 以 死相 逼 那里 开始 放	p nr p n v r v v	O NAME PLOT PLOT PLOT O O O
+我 想 直接 看 骗子 被 识破	r v ad v n p v	O O O O PLOT PLOT PLOT
+只 看 周星驰 的 镜头	d v nr u n	O O NAME O O
+只 看 周星驰	d v nr	O O NAME
+只 看 赵丽颖	d v nr	O O NAME
+只 看 赵丽颖 的 部分	d v nr u n	O O NAME O O
+只 看 赵丽颖 的 片段	d v nr u n	O O NAME O O
+我 只 想 看 张国荣	r d v v nr	O O O O NAME
+我 只 想 看 有 张国荣 的 地方	r d v v v nr u n	O O O O O NAME O O
+我 只 想 看 有 周润发 的 部分	r d v v v nr u n	O O O O O NAME O O
+我 只 想 看 张国荣 演 的 片段	r d v v nr v u n	O O O O NAME O O O
+我 只 想 看 周润发 的 镜头	r d v v nr u n	O O O O NAME O O
+只 看 林青霞 出演 的 镜头	d v nr v u n	O O NAME O O O
+只 看 有 林青霞 出现 的 地方	d v v nr v u n	O O O NAME O O O
+只 看 周杰伦 演 的 片段	d v nr v u n	O O NAME O O O
+就 看 刘德华	p v nr	O O NAME
+就 看 刘德华 的 镜头	p v nr u n	O O NAME O O
+就 看 刘德华 的 片段	p v nr u n	O O NAME O O
+就 看 刘德华 的 部分	p v nr u n	O O NAME O O
+就 看 有 林更新 的 镜头	p v v nr u n	O O O NAME O O
+就 看 有 林更新 的 片段	p v v nr u n	O O O NAME O O
+就 看 有 林更新 的 部分	p v v nr u n	O O O NAME O O
+只 看 有 张柏芝 的 地方	d v v nr u n	O O O NAME O O
+只 看 有 张柏芝 的 片段	d v v nr u n	O O O NAME O O
+只 看 有 张柏芝 的 镜头	d v v nr u n	O O O NAME O O
+只 看 有 张柏芝 的 部分	d v v nr u n	O O O NAME O O
+我 只 看 梁朝伟 的 戏	r d v nr u n	O O O NAME O O
+我 只 看 梁朝伟 出演 的 镜头	r d v nr v u n	O O O NAME O O O
+我 就 想 看 有 成龙 的 地方	r d v v v nr u n	O O O O O NAME O O
+我 就 想 看 梁朝伟 演 的 片段	r d v v nr v u n	O O O O NAME O O O
+只 放 周星驰	d v nr	O O NAME
+只 放 有 周星驰 的 部分	d v v nr u n	O O O NAME O O
+只 放 周星驰 出现 的 片段	d v nr v u n	O O NAME O O O
+只 放 赵丽颖 的 镜头	d v nr u n	O O NAME O O
+只 放 赵丽颖 出演 的 镜头	d v nr v u n	O O NAME O O O
+只 放 杨幂 出演 的 部分	d v nr v u n	O O NAME O O O
+只 放 杨幂 的 戏	d v nr u n	O O NAME O O
+我 只要 看 刘亦菲 的 戏	r c v nr u n	O O O NAME O O
+我 只要 看 刘亦菲 的 镜头	r c v nr u n	O O O NAME O O
+我 只要 看 有 刘亦菲 出现 的 地方	r c v v nr v u n	O O O O NAME O O O
+我 只要 看 章子怡 出现 的 部分	r c v nr v u n	O O O NAME O O O
+我 只要 看 有 章子怡 的 片段	r c v v nr u n	O O O O NAME O O
+我 要 看 对不起我是警察 的 那 段	r v v nz u r q	O O O PLOT O O O
+我 要 看 出来混迟早是要还的 那 段	r v v nz r q	O O O PLOT O O
+我 要 看 我 是 假 霸王 你 是 真 虞姬 的 片段	r v v r v a n r v a nr u n	O O O PLOT PLOT PLOT PLOT PLOT PLOT PLOT PLOT O O
+我 要 看 最 好 的 威胁 是 不 采取 行动 那 段	r v v d a u vn v d v vn r q	O O O PLOT PLOT PLOT PLOT PLOT PLOT PLOT PLOT O O
+我 要 看 我 不 想 死 我 要 活 着 的 那 段	r v v r d v v r v v u u r q	O O O PLOT PLOT PLOT PLOT PLOT PLOT PLOT PLOT O O O
+我 要 看 但 你 不 可以 说 我 是 臭 跑龙套 的 那 段	r v v c r d v v r v a n u r q	O O O PLOT PLOT PLOT PLOT PLOT PLOT PLOT PLOT PLOT O O O
+我 要 看 曾经 有 份 真挚 的 爱情 放 在 我 面前 那段	r v v d v q a u n v p r f r	O O O PLOT PLOT PLOT PLOT PLOT PLOT PLOT PLOT PLOT PLOT O
+我 要 看 我 的 意中人 是 个 盖世英雄 的 那 段	r v v r u n v q i u r q	O O O PLOT PLOT PLOT PLOT PLOT PLOT O O O
+我 要 看 那个人 好像 一 条 狗 诶 的 那 段	r v v nr d m q n e u r q	O O O PLOT PLOT PLOT PLOT PLOT PLOT O O O
+我 要 看 人 是 人 他 妈 生 的 那 段	r v v n v n r n v u r q	O O O PLOT PLOT PLOT PLOT PLOT PLOT PLOT O O
+我 要 看 我 猜 到 了 开头 却 猜 不 中 结局 的 那 段	r v v r v v u n d v d f n u r q	O O O PLOT PLOT PLOT PLOT PLOT PLOT PLOT PLOT PLOT PLOT O O O
+我 要 看 这个 鱼塘 被 你 承包 了 的 那 段	r v v r n p r v u u r q	O O O PLOT PLOT PLOT PLOT PLOT PLOT O O O
+我 要 看 让 我 去 睡服 他 的 那 段	r v v v r v v r u r q	O O O PLOT PLOT PLOT PLOT PLOT O O O
+我 要 看 我 恨 你 但 我 也 只有 你 的 那 段	r v v r v r c r d c r u r q	O O O PLOT PLOT PLOT PLOT PLOT PLOT PLOT PLOT O O O
+我 要 看 下辈子 我 一定 会 找到 你 的 那 段	r v v t r d v v r u r q	O O O PLOT PLOT PLOT PLOT PLOT PLOT O O O
+我 要 看 我 失去 的 东西 一定 要 亲手 拿 回来 的 那 段	r v v r v u n d v d v v u r q	O O O PLOT PLOT PLOT PLOT PLOT PLOT PLOT PLOT PLOT O O O
+我 要 看 还有 谁 的 那 段	r v v v r u r q	O O O PLOT PLOT O O O
+只 看 李连杰 和 甄子丹	d v nr c nr	O O NAME O NAME
+只 看 李易峰 和 杨洋	d v nr c nr	O O NAME O NAME
+我 只 看 吴亦凡 和 鹿晗	r d v nr c nr	O O O NAME O NAME
+我 只 看 黄子韬 和 张艺兴	r d v nr c nr	O O O NAME O NAME
+我 只 想 看 黄渤 和 徐峥	r d v v nr c nr	O O O O NAME O NAME
+就 看 王宝强 和 黄渤	p v nr c nr	O O NAME O NAME
+我 只要 看 刘昊然 和 佟丽娅	r c v nr c nr	O O O NAME O NAME
+只 看 有 林更新 和 林允儿 的 部分	d v v nr c nr u n	O O O NAME O NAME O O
+只 看 林青霞 和 秦祥林	d v nr c nr	O O NAME O NAME
+我 只 想 看 王宝强 和 黄渤	r d v v nr c nr	O O O O NAME O NAME
+只 看 刘德华 和 梁朝伟 的 镜头	d v nr c nr u n	O O NAME O NAME O O
+只 看 陈冠希 和 余文乐 的 部分	d v nr c nr u n	O O NAME O NAME O O
+只 看 有 吴彦祖 和 成龙 的 地方	d v v nr c nr u n	O O O NAME O NAME O O
+我 只要 看 周润发 和 张国荣	r c v nr c nr	O O O NAME O NAME
+只 放 李易峰 和 杨颖 的 镜头	d v nr c nr u n	O O NAME O NAME O O
+我 只 看 杨幂 和 李易峰	r d v nr c nr	O O O NAME O NAME
+我 只 看 魏璎珞 和 秦岚	r d v nr c nr	O O O NAME O NAME
+南京 下周 有 雨 吗	ns t v n y	LOCATION TIME O O O
+上海 2天 是不是 雨天	ns nr nz n	LOCATION TIME O O
+天津 今天 雨停 吗	ns t v y	LOCATION TIME O O
+南京 有没有 雨	ns n n	LOCATION O O
+成都 雨停 吗	ns v y	LOCATION O O
+五 天 是 晴天 吗	m q v n y	TIME TIME O O O
+本地 是 晴天 还是 雨天	r v n c n	LOCATION O O O O
+长沙 明天 是不是 会 下雨	ns t nz v v	LOCATION TIME O O O
+深圳 未来 两 天 是 晴天 吗	ns t m q v n y	LOCATION TIME TIME TIME O O O
+成都 今天 是不是 雨天	ns t nz n	LOCATION TIME O O
+厦门 是不是 会 下雨	ns nz v v	LOCATION O O O
+长沙 今天 是 晴天 还是 雨天	ns t v n c n	LOCATION TIME O O O O
+厦门 未来 两 天 是不是 晴天	ns t m q nz n	LOCATION TIME TIME TIME O O
+天津 有没有 雨	ns n n	LOCATION O O
+本地 下周 是 雨天 吗	r t v n y	LOCATION TIME O O O
+南京 7月8 号 是不是 雨天	ns m q nz n	LOCATION TIME TIME O O
+长沙 后天 是不是 会 下雨	ns n nz v v	LOCATION TIME O O O
+厦门 后天 有 雨 吗	ns n v n y	LOCATION TIME O O O
+天津 未来 3天 雨 会 不 会 停	ns t m n v d v v	LOCATION TIME TIME O O O O O
+未来 3 天 是不是 晴天	t m q nz n	TIME TIME TIME O O
+北京 明天 有没有 雨	ns t n n	LOCATION TIME O O
+上海 7月8 号 雨 会 不 会 停	ns m q n v d v v	LOCATION TIME TIME O O O O O
+成都 五 天 是不是 雨天	ns m q nz n	LOCATION TIME TIME O O
+深圳 有没有 雨	ns n n	LOCATION O O
+北京 是不是 晴天	ns nz n	LOCATION O O
+今天 上海 雨停 吗	t ns v y	TIME LOCATION O O
+7月8 号 本地 有 雨 吗	m q r v n y	TIME TIME LOCATION O O O
+2天 北京 是 雨天 吗	nr ns v n y	TIME LOCATION O O O
+2天 天津 是不是 会 下雨	nr ns nz v v	TIME LOCATION O O O
+下周 本地 是不是 晴天	t r nz n	TIME LOCATION O O
+四月 十 号 厦门 雨 会 不 会 停	t m q ns n v d v v	TIME TIME TIME LOCATION O O O O O
+下周 厦门 是 晴天 吗	t ns v n y	TIME LOCATION O O O
+四月 十 号 有没有 雨	t m q n n	TIME TIME TIME O O
+2天 深圳 是 雨天 吗	nr ns v n y	TIME LOCATION O O O
+四月 十日 重庆 有没有 雨	t t ns n n	TIME TIME LOCATION O O
+后天 南京 有 雨 吗	n ns v n y	TIME LOCATION O O O
+五 天 是不是 晴天	m q nz n	TIME TIME O O
+今天 重庆 是 雨天 吗	t ns v n y	TIME LOCATION O O O
+未来 两 天 是不是 晴天	t m q nz n	TIME TIME TIME O O
+五 天 广州 是不是 晴天	m q ns nz n	TIME TIME LOCATION O O
+2天 成都 有 雨 吗	nr ns v n y	TIME LOCATION O O O
+下周 北京 雨 会 不 会 停	t ns n v d v v	TIME LOCATION O O O O O
+2天 有 雨 吗	nr v n y	TIME O O O
+重庆 雨 会 不 会 停	ns n v d v v	LOCATION O O O O O
+2天 福州 是 晴天 吗	nr ns v n y	TIME LOCATION O O O
+今天 长沙 是不是 晴天	t ns nz n	TIME LOCATION O O
+五 天 南京 是 雨天 吗	m q ns v n y	TIME TIME LOCATION O O O
+是 晴天 吗	v n y	O O O
+未来 两 天 天津 有没有 雨	t m q ns n n	TIME TIME TIME LOCATION O O
+四月 十 号 广州 有 雨 吗	t m q ns v n y	TIME TIME TIME LOCATION O O O
+未来 两 天 本地 下雨 吗	t m q r v y	TIME TIME TIME LOCATION O O
+后天 重庆 是不是 晴天	n ns nz n	TIME LOCATION O O
+是不是 雨天	nz n	O O
+四月 十 号 福州 有没有 雨	t m q ns n n	TIME TIME TIME LOCATION O O
+本地 有没有 雨	r n n	LOCATION O O
+四月 十日 长沙 是不是 晴天	t t ns nz n	TIME TIME LOCATION O O
+未来 3 天 南京 雨 会 不 会 停	t m q ns n v d v v	TIME TIME TIME LOCATION O O O O O
+雨 会 不 会 停	n v d v v	O O O O O
+成都 雨 会 不 会 停	ns n v d v v	LOCATION O O O O O
+明天 长沙 有 雨 吗	t ns v n y	TIME LOCATION O O O
+明天 重庆 雨停 吗	t ns v y	TIME LOCATION O O
+五 天 重庆 是 晴天 吗	m q ns v n y	TIME TIME LOCATION O O O
+2天 广州 雨 会 不 会 停	nr ns n v d v v	TIME LOCATION O O O O O
+后天 北京 是不是 会 下雨	n ns nz v v	TIME LOCATION O O O
+厦门 有 雨 吗	ns v n y	LOCATION O O O
+未来 两 天 福州 雨 会 不 会 停	t m q ns n v d v v	TIME TIME TIME LOCATION O O O O O
+北京 是不是 会 下雨	ns nz v v	LOCATION O O O
+未来 3 天 广州 雨停 吗	t m q ns v y	TIME TIME TIME LOCATION O O
+有没有 雨	n n	O O
+天津 雨停 吗	ns v y	LOCATION O O
+是不是 会 下雨 下周 北京	nz v v t ns	O O O TIME LOCATION
+是 晴天 吗 深圳	v n y ns	O O O LOCATION
+是 晴天 还是 雨天 2天 长沙	v n c n nr ns	O O O O TIME LOCATION
+是不是 雨天 下周 上海	nz n t ns	O O TIME LOCATION
+是不是 雨天 成都	nz n ns	O O LOCATION
+是 晴天 还是 雨天 四月 十 号 本地	v n c n t m q r	O O O O TIME TIME TIME LOCATION
+有没有 雨 后天 深圳	n n n ns	O O TIME LOCATION
+是不是 晴天 四月 十 号 上海	nz n t m q ns	O O TIME TIME TIME LOCATION
+有 雨 吗 今天 南京	v n y t ns	O O O TIME LOCATION
+是 雨天 吗 广州	v n y ns	O O O LOCATION
+空气 质量 指数 多少	n n n r	O O O O
+南京 未来 两 天 空气 好 吗	ns t m q n a y	LOCATION TIME TIME TIME O O O
+天津 今天 空气 质量 怎么样	ns t n n r	LOCATION TIME O O O
+天津 今天 空气 质量 指数 多少	ns t n n n r	LOCATION TIME O O O O
+广州 后天 空气 怎么样	ns n n r	LOCATION TIME O O
+成都 下周 空气 怎么样	ns t n r	LOCATION TIME O O
+四月 十 号 空气 好 吗	t m q n a y	TIME TIME TIME O O O
+本地 今天 空气 质量 怎么样	r t n n r	LOCATION TIME O O O
+天津 今天 的 空气 质量 指数	ns t u n n n	LOCATION TIME O O O O
+长沙 今天 空气 质量 好 吗	ns t n n a y	LOCATION TIME O O O O
+本地 7月8 号 空气 质量 好 吗	r m q n n a y	LOCATION TIME TIME O O O O
+深圳 空气 质量 怎么样	ns n n r	LOCATION O O O
+重庆 后天 空气 质量 指数 多少	ns n n n n r	LOCATION TIME O O O O
+今天 空气 质量 好 吗	t n n a y	TIME O O O O
+天津 后天 的 空气 质量 指数	ns n u n n n	LOCATION TIME O O O O
+本地 的 空气 质量 指数	r u n n n	LOCATION O O O O
+天津 今天 空气 怎么样	ns t n r	LOCATION TIME O O
+长沙 空气 质量 好 吗	ns n n a y	LOCATION O O O O
+本地 空气 质量 指数 多少	r n n n r	LOCATION O O O O
+五 天 空气 质量 怎么样	m q n n r	TIME TIME O O O
+四月 十日 空气 质量 指数 多少	t t n n n r	TIME TIME O O O O
+上海 四月 十日 空气 质量 指数 多少	ns t t n n n r	LOCATION TIME TIME O O O O
+重庆 四月 十 号 空气 质量 怎么样	ns t m q n n r	LOCATION TIME TIME TIME O O O
+后天 成都 空气 质量 怎么样	t ns n n r	TIME LOCATION O O O
+下周 本地 空气 怎么样	t r n r	TIME LOCATION O O
+四月 十日 重庆 空气 质量 怎么样	t t ns n n r	TIME TIME LOCATION O O O
+重庆 的 空气 质量 指数	ns u n n n	LOCATION O O O O
+明天 空气 好 吗	t n a y	TIME O O O
+南京 的 空气 质量 指数	ns u n n n	LOCATION O O O O
+四月 十日 的 空气 质量 指数	t t u n n n	TIME TIME O O O O
+下周 重庆 空气 质量 指数 多少	t ns n n n r	TIME LOCATION O O O O
+下周 南京 空气 怎么样	t ns n r	TIME LOCATION O O
+7月8 号 天津 空气 质量 指数 多少	m q ns n n n r	TIME TIME LOCATION O O O O
+北京 的 空气 质量 指数	ns u n n n	LOCATION O O O O
+后天 空气 质量 好 吗	n n n a y	TIME O O O O
+今天 成都 空气 质量 指数 多少	t ns n n n r	TIME LOCATION O O O O
+2天 福州 空气 怎么样	nr ns n r	TIME LOCATION O O
+四月 十日 重庆 空气 质量 好 吗	t t ns n n a y	TIME TIME LOCATION O O O O
+五 天 福州 空气 质量 好 吗	m q ns n n a y	TIME TIME LOCATION O O O O
+明天 本地 空气 怎么样	t r n r	TIME LOCATION O O
+今天 长沙 空气 质量 指数 多少	t ns n n n r	TIME LOCATION O O O O
+空气 好 吗	n a y	O O O
+下周 空气 质量 好 吗	t n n a y	LOCATION O O O O
+四月 十 号 广州 空气 质量 指数 多少	t m q ns n n n r	TIME TIME TIME LOCATION O O O O
+后天 空气 质量 好 吗	n n n a y	TIME O O O O
+空气 怎么样	n r	O O
+7月8 号 空气 怎么样	m q n r	TIME TIME O O
+明天 上海 空气 好 吗	t ns n a y	TIME LOCATION O O O
+后天 空气 好 吗	n n a y	TIME O O O
+上海 的 空气 质量 指数	ns u n n n	LOCATION O O O O
+2天 长沙 空气 质量 怎么样	nr ns n n r	TIME LOCATION O O O
+五 天 南京 空气 好 吗	m q ns n a y	TIME TIME LOCATION O O O
+四月 十日 重庆 空气 质量 好 吗	t t ns n n a y	TIME TIME LOCATION O O O O
+下周 空气 质量 好 吗	t n n a y	TIME O O O O
+2天 福州 空气 质量 怎么样	nr ns n n r	TIME LOCATION O O O
+四月 十日 厦门 空气 怎么样	t t ns n r	TIME TIME LOCATION O O
+后天 重庆 空气 质量 怎么样	t ns n n r	TIME LOCATION O O O
+空气 质量 怎么样	n n r	O O O
+未来 两 天 重庆 空气 怎么样	t m q ns n r	TIME TIME TIME LOCATION O O
+未来 两 天 深圳 空气 质量 好 吗	t m q ns n n a y	TIME TIME TIME LOCATION O O O O
+空气 质量 指数	n n n	O O O
+下周 上海 空气 质量 怎么样	t ns n n r	TIME LOCATION O O O
+后天 厦门 空气 质量 指数 多少	t ns n n n r	TIME LOCATION O O O O
+空气 质量 怎么样	n n r	O O O
+明天 天津 空气 质量 指数 多少	t ns n n n r	TIME LOCATION O O O O
+未来 两 天 空气 质量 怎么样	t m q n n r	TIME TIME TIME O O O
+未来 3 天 长沙 空气 质量 指数 多少	t m q ns n n n r	TIME TIME TIME LOCATION O O O O
+7月8 号 长沙 的 空气 质量 指数	m q ns u n n n	TIME TIME LOCATION O O O O
+2天 福州 空气 质量 怎么样	nr ns n n r	TIME LOCATION O O O
+空气 质量 指数 未来 3 天	n n n t m q	O O O O TIME TIME
+空气 怎么样 2天 南京	n r nr ns	O O TIME LOCATION
+空气 质量 怎么样 未来 两 天 长沙	n n r t m q ns	O O O TIME TIME TIME LOCATION
+空气 质量 指数 多少 四月 十日 上海	n n n r t t ns	O O O O TIME TIME LOCATION
+空气 质量 好 吗 未来 两 天	n n a y t m q	O O O O TIME TIME TIME
+空气 质量 指数 多少 2天	n n n r nr	O O O O TIME
+空气 质量 怎么样	n n r	O O O
+空气 好 吗	n a y	O O O
+空气 质量 怎么样	n n r	O O O
+空气 好 吗 四月 十日 深圳	n a y t t ns	O O O TIME TIME LOCATION
+天津 四月 十日 洗 不 洗车	ns t t v d v	LOCATION TIME TIME O O O
+北京 该 不 该 洗车	ns v d v n	LOCATION O O O O
+后天 能不能 洗车	n n v	TIME O O
+福州 2天 适 不 适合 洗车	ns nr vg d v n	LOCATION TIME O O O O
+四月 十 号 适 不 适合 洗车	t m q vg d v n	TIME TIME TIME O O O O
+南京 今天 要不要 洗车	ns t nz v	LOCATION TIME O O
+深圳 7月8 号 要不要 洗车	ns m q nz v	LOCATION TIME TIME O O
+福州 明天 的 洗车 指数	ns t u n n	LOCATION TIME O O O
+重庆 五 天 的 洗车 指数	ns m q u n n	LOCATION TIME TIME O O O
+长沙 的 洗车 指数	ns u n n	LOCATION O O O
+北京 后天 适 不 适合 洗车	ns n vg d v n	LOCATION TIME O O O O
+厦门 7月8 号 的 洗车 指数	ns m q u n n	LOCATION TIME TIME O O O
+长沙 的 洗车 指数	ns u n n	LOCATION O O O
+深圳 未来 两 天 该 不 该 洗车	ns t m q v d v n	LOCATION TIME TIME TIME O O O O
+北京 明天 的 洗车 指数	ns t u n n	LOCATION TIME O O O
+深圳 四月 十 号 洗 不 洗车	ns t m q v d v	LOCATION TIME TIME TIME O O O
+南京 四月 十 号 洗 不 洗车	ns t m q v d v	LOCATION TIME TIME TIME O O O
+本地 洗 不 洗车	r v d v	LOCATION O O O
+洗 不 洗车	v d v	O O O
+长沙 明天 洗 不 洗车	ns t v d v	LOCATION TIME O O O
+深圳 2天 能不能 洗车	ns nr n v	LOCATION TIME O O
+7月8 号 适 不 适合 洗车	m q vg d v n	TIME LOCATION O O O O
+厦门 今天 洗 不 洗车	ns t v d v	LOCATION TIME O O O
+四月 十日 长沙 能不能 洗车	t t ns n v	TIME TIME LOCATION O O
+未来 3 天 该 不 该 洗车	t m q v d v n	TIME TIME TIME O O O O
+7月8 号 该 不 该 洗车	m q v d v n	TIME TIME O O O O
+南京 该 不 该 洗车	ns v d v n	LOCATION O O O O
+后天 成都 适 不 适合 洗车	n ns vg d v n	TIME LOCATION O O O O
+2天 能不能 洗车	nr n v	TIME O O
+长沙 该 不 该 洗车	ns v d v n	LOCATION O O O O
+未来 3 天 上海 适 不 适合 洗车	t m q ns vg d v n	TIME TIME TIME LOCATION O O O O
+明天 重庆 洗 不 洗车	t ns v d v	TIME LOCATION O O O
+明天 上海 洗 不 洗车	t ns v d v	TIME LOCATION O O O
+长沙 能不能 洗车	ns n v	LOCATION O O
+四月 十 号 成都 能不能 洗车	t m q ns n v	TIME TIME TIME LOCATION O O
+四月 十 号 广州 能不能 洗车	t m q ns n v	TIME TIME TIME LOCATION O O
+五 天 天津 要不要 洗车	m q ns nz v	TIME TIME LOCATION O O
+7月8 号 上海 能不能 洗车	m q ns n v	TIME TIME LOCATION O O
+2天 广州 适 不 适合 洗车	nr ns vg d v n	TIME LOCATION O O O O
+北京 该 不 该 洗车	ns v d v n	LOCATION O O O O
+四月 十日 福州 的 洗车 指数	t t ns u n n	TIME TIME LOCATION O O O
+下周 本地 要不要 洗车	t r nz v	TIME LOCATION O O
+适 不 适合 洗车	vg d v n	O O O O
+今天 成都 该 不 该 洗车	t ns v d v n	TIME LOCATION O O O O
+未来 两 天 的 洗车 指数	t m q u n n	TIME TIME TIME O O O
+未来 两 天 福州 适 不 适合 洗车	t m q ns vg d v n	TIME TIME TIME LOCATION O O O O
+明天 本地 适 不 适合 洗车	t r vg d v n	TIME LOCATION O O O O
+2天 天津 能不能 洗车	nr ns n v	TIME LOCATION O O
+本地 要不要 洗车	r nz v	LOCATION O O
+广州 的 洗车 指数	ns u n n	LOCATION O O O
+北京 该 不 该 洗车	ns v d v n	LOCATION O O O O
+今天 要不要 洗车	t nz v	TIME O O
+四月 十 号 要不要 洗车	t m q nz v	TIME TIME TIME O O
+明天 能不能 洗车	t n v	TIME O O
+成都 该 不 该 洗车	ns v d v n	LOCATION O O O O
+五 天 厦门 的 洗车 指数	m q ns u n n	TIME TIME LOCATION O O O
+后天 福州 适 不 适合 洗车	t ns vg d v n	TIME LOCATION O O O O
+洗 不 洗车	v d v	O O O
+适 不 适合 洗车	vg d v n	O O O O
+重庆 要不要 洗车	ns nz v	LOCATION O O
+五 天 上海 该 不 该 洗车	m q ns v d v n	TIME TIME LOCATION O O O O
+长沙 要不要 洗车	ns nz v	LOCATION O O
+明天 上海 洗 不 洗车	t ns v d v	TIME LOCATION O O O
+四月 十日 福州 洗 不 洗车	t t ns v d v	TIME TIME LOCATION O O O
+四月 十日 该 不 该 洗车	t t v d v n	TIME TIME O O O O
+四月 十日 福州 的 洗车 指数	t t ns u n n	TIME TIME LOCATION O O O
+洗车 指数	n n	O O
+洗 不 洗车	v d v	O O O
+2天 天津 适 不 适合 洗车	nr ns vg d v n	TIME LOCATION O O O O
+洗 不 洗车	v d v	O O O
+适 不 适合 洗车	vg d v n	O O O O
+要不要 洗 车 后天	nz v n n	O O O LOCATION
+洗 不 洗车 未来 3 天	v d n t m q	O O O TIME TIME TIME
+该 不 该 洗车 未来 两 天 重庆	v d v n t m q ns	O O O O TIME TIME TIME LOCATION
+洗车 指数 五 天 深圳	n n m q ns	O O TIME TIME LOCATION
+洗 不 洗 车 长沙	v d v n ns	O O O O LOCATION
+要不要 洗车 四月 十 号 成都	nz v t m q ns	O O TIME TIME TIME LOCATION
+洗 不 洗车 7月8 号 长沙	v d v m q ns	O O O TIME TIME LOCATION
+适 不 适合 洗车 今天 北京	vg d v n t ns	O O O O TIME LOCATION
+要不要 洗车 南京	nz v ns	O O LOCATION
+南京 的 穿衣 指数	ns u v n	LOCATION O O O
+五 天 穿 衣 指数	m q v ng n	TIME TIME O O O
+广州 怎么 穿 衣服	ns r v n	LOCATION O O O
+未来 两 天 要不要 加 衣服	t m q nz v n	TIME TIME TIME O O O
+天津 穿 多少 合适	ns v r a	LOCATION O O O
+南京 四月 十 号 穿衣 指数	ns t m q v n	LOCATION TIME TIME TIME O O
+福州 未来 两 天 怎么 穿 衣服	ns t m q r v n	LOCATION TIME TIME TIME O O O
+福州 未来 3 天 要不要 加 衣服	ns t m q nz v n	LOCATION TIME TIME TIME O O O
+重庆 衣服 要不要 少 穿 一些	ns n nz ad v m	LOCATION O O O O O
+厦门 四月 十 号 的 穿衣 指数	ns t m q u v n	LOCATION TIME TIME TIME O O O
+本地 未来 3 天 要不要 加 衣服	r t m q nz v n	LOCATION TIME TIME TIME O O O
+2天 的 穿衣 指数	nr u v n	TIME O O O
+五 天 穿 什么 衣服	m q v r n	TIME TIME O O O
+厦门 7月8 号 衣服 要不要 少 穿 一些	ns m q n nz ad v m	LOCATION TIME TIME O O O O O
+今天穿什么 衣服	nz n	TIME O
+广州 五 天 衣服 要不要 少 穿 一些	ns m q n nz ad v m	LOCATION TIME TIME O O O O O
+穿衣 指数	v n	O O
+厦门 后天 的 穿衣 指数	ns n u v n	LOCATION TIME O O O
+福州 2天 穿 多少 合适	ns nr v r a	LOCATION TIME O O O
+深圳 未来 3 天 要不要 加 衣服	ns t m q nz v n	LOCATION TIME TIME TIME O O O
+福州 穿 多少 合适	ns v r a	LOCATION O O O
+天津 四月 十 号 穿衣 指数	ns t m q v n	LOCATION TIME TIME TIME O O
+重庆 2天 穿 多少 合适	ns nr v r a	LOCATION TIME O O O
+成都 怎么 穿 衣服	ns r v n	LOCATION O O O
+四月 十 号 长沙 怎么 穿 衣服	t m q ns r v n	TIME TIME TIME LOCATION O O O
+厦门 穿 什么 衣服	ns v r n	LOCATION O O O
+7月8 号 福州 要不要 加 衣服	m q ns nz v n	TIME TIME LOCATION O O O
+成都 穿 多少 合适	ns v r a	LOCATION O O O
+7月8 号 天津 要不要 加 衣服	m q ns nz v n	TIME TIME LOCATION O O O
+今天 重庆 穿衣 指数	t ns v n	TIME LOCATION O O
+四月 十日 穿什么 合适	t t l a	TIME TIME O O
+四月 十 号 上海 要不要 加 衣服	t m q ns nz v n	TIME TIME TIME LOCATION O O O
+下周 天津 要不要 加 衣服	t ns nz v n	TIME LOCATION O O O
+下周 深圳 穿什么 衣服	t ns l n	TIME LOCATION O O
+天津 的 穿衣 指数	ns u v n	LOCATION O O O
+广州 衣服 要不要 少 穿 一些	ns n nz ad v m	LOCATION O O O O O
+本地 穿 多少 合适	r v r a	LOCATION O O O
+南京 穿 多少 合适	ns v r a	LOCATION O O O
+今天 长沙 怎么 穿 衣服	t ns r v n	TIME LOCATION O O O
+明天 穿衣 指数	t v n	TIME O O
+今天 成都 怎么 穿 衣服	t ns r v n	TIME LOCATION O O O
+未来 3 天 广州 穿衣 指数	t m q ns v n	TIME TIME TIME LOCATION O O
+今天 要不要 加 衣服	t nz v n	TIME O O O
+天津 怎么 穿 衣服	ns r v n	LOCATION O O O
+7月8 号 广州 穿什么 合适	m q ns l a	TIME TIME LOCATION O O
+2天 上海 衣服 要不要 少 穿 一些	nr ns n nz ad v m	TIME LOCATION O O O O O
+广州 穿 什么 衣服	ns v r n	LOCATION O O O
+本地 的 穿衣 指数	r u v n	LOCATION O O O
+穿什么 衣服	l n	O O
+穿衣 指数	v n	O O
+重庆 穿 什么 衣服	ns v r n	LOCATION O O O
+的 穿衣 指数	u v n	O O O
+下周 福州 衣服 要不要 少 穿 一些	t ns n nz ad v m	TIME LOCATION O O O O O
+下周 穿衣 指数	t v n	TIME O O
+厦门 要不要 加 衣服	ns nz v n	LOCATION O O O
+7月8 号 长沙 衣服 要不要 少 穿 一些	m q ns n nz ad v m	TIME TIME LOCATION O O O O O
+下周 穿 多少 合适	t v r a	TIME O O O
+怎么 穿 衣服	r v n	O O O
+福州 穿什么 合适	ns l a	LOCATION O O
+四月 十日 长沙 怎么 穿 衣服	t t ns r v n	TIME TIME LOCATION O O O
+五 天 天津 穿什么 衣服	m q ns l n	TIME TIME LOCATION O O
+四月 十日 福州 怎么 穿 衣服	t t ns r v n	TIME TIME LOCATION O O O
+今天 天津 穿 多少 合适	t ns v r a	TIME LOCATION O O O
+未来 两 天 厦门 怎么 穿 衣服	t m q ns r v n	TIME TIME TIME LOCATION O O O
+四月 十 号 厦门 要不要 加 衣服	t m q ns nz v n	TIME TIME TIME LOCATION O O O
+未来 两 天 要不要 加 衣服	t m q nz v n	TIME TIME TIME O O O
+下周 本地 穿衣 指数	t r v n	TIME O O O
+未来 3 天 深圳 穿什么 衣服	t m q ns l n	TIME TIME TIME LOCATION O O
+南京 衣服 要不要 少 穿 一些	ns n nz ad v m	LOCATION O O O O O
+2天 北京 的 穿衣 指数	nr ns u v n	TIME LOCATION O O O
+穿什么 衣服 7月8 号 本地	l n m q r	O O TIME TIME LOCATION
+怎么 穿 衣服 后天	r v n n	O O O TIME
+穿什么 合适 后天 重庆	l a n ns	O O TIME LOCATION
+穿 多少 合适 四月 十日 福州	v r a t t ns	O O O TIME TIME LOCATION
+衣服 要不要 少 穿 一些 7月8 号	n nz ad v m m q	O O O O O TIME TIME
+要不要 加 衣服 北京	nz v n ns	O O O LOCATION
+怎么 穿 衣服 2天 福州	r v n nr ns	O O O TIME LOCATION
+穿 多少 合适 2天 重庆	v r a nr ns	O O O TIME LOCATION
+穿 多少 合适 后天 成都	v r a n ns	O O O TIME LOCATION
+穿什么 合适 明天	l a t	O O TIME
+广州 五 天 紫外线 强 吗	ns m q n a y	LOCATION TIME TIME O O O
+重庆 2天 紫外线 指数 多少	ns nr n n r	LOCATION TIME O O O
+长沙 五 天 紫外线 指数 多少	ns m q n n r	LOCATION TIME TIME O O O
+广州 的 紫外线 指数 是 多少	ns u n n v r	LOCATION O O O O O
+广州 明天 紫外线 指数 多少	ns t n n r	LOCATION TIME O O O
+长沙 四月 十日 紫外线 强 吗	ns t t n a y	LOCATION TIME TIME O O O
+长沙 紫外线 指数 多少	ns n n r	LOCATION O O O
+成都 四月 十 号 的 紫外线 指数 是 多少	ns t m q u n n v r	LOCATION TIME TIME TIME O O O O O
+未来 两 天 紫外线 强 吗	t m q n a y	TIME TIME TIME O O O
+四月 十 号 紫外线 强 吗	t m q n a y	TIME TIME TIME O O O
+北京 下周 紫外线 指数 多少	ns t n n r	LOCATION TIME O O O
+南京 今天 的 紫外线 指数 是 多少	ns t u n n v r	LOCATION TIME O O O O O
+今天 紫外线 强 吗	t n a y	TIME O O O
+南京 下周 紫外线 强 吗	ns t n a y	LOCATION TIME O O O
+成都 下周 紫外线 指数 多少	ns t n n r	LOCATION TIME O O O
+南京 未来 两 天 紫外线 强 吗	ns t m q n a y	LOCATION TIME TIME TIME O O O
+深圳 四月 十 号 紫外线 强 吗	ns t m q n a y	LOCATION TIME TIME TIME O O O
+后天 紫外线 强 吗	n n a y	TIME O O O
+福州 紫外线 指数 多少	ns n n r	LOCATION O O O
+天津 未来 两 天 紫外线 指数 多少	ns t m q n n r	LOCATION TIME TIME TIME O O O
+南京 紫外线 强 吗	ns n a y	LOCATION O O O
+深圳 四月 十 号 的 紫外线 指数 是 多少	ns t m q u n n v r	LOCATION TIME TIME TIME O O O O O
+福州 四月 十日 紫外线 强 吗	ns t t n a y	LOCATION TIME TIME O O O
+未来 3 天 深圳 的 紫外线 指数 是 多少	t m q ns u n n v r	TIME TIME TIME LOCATION O O O O O
+四月 十 号 的 紫外线 指数 是 多少	t m q u n n v r	TIME TIME TIME O O O O O
+未来 3 天 长沙 紫外线 强 吗	t m q ns n a y	TIME TIME TIME LOCATION O O O
+五 天 成都 紫外线 指数 多少	m q ns n n r	TIME TIME LOCATION O O O
+下周 北京 紫外线 指数 多少	t ns n n r	TIME LOCATION O O O
+下周 重庆 紫外线 强 吗	t ns n a y	TIME LOCATION O O O
+四月 十 号 深圳 紫外线 指数 多少	t m q ns n n r	TIME TIME TIME LOCATION O O O
+今天 南京 紫外线 强 吗	t ns n a y	TIME LOCATION O O O
+今天 紫外线 强 吗	t n a y	TIME O O O
+上海 紫外线 指数 多少	ns n n r	LOCATION O O O
+今天 南京 紫外线 强 吗	t ns n a y	TIME LOCATION O O O
+的 紫外线 指数 是 多少	u n n v r	O O O O O
+明天 紫外线 指数 多少	t n n r	TIME O O O
+四月 十 号 成都 紫外线 强 吗	t m q ns n a y	TIME TIME TIME LOCATION O O O
+四月 十日 紫外线 强 吗	t t n a y	TIME TIME O O O
+本地 紫外线 指数 多少	r n n r	LOCATION O O O
+2天 深圳 紫外线 指数 多少	nr ns n n r	TIME LOCATION O O O
+未来 3 天 厦门 的 紫外线 指数 是 多少	t m q ns u n n v r	TIME TIME TIME LOCATION O O O O O
+五 天 深圳 紫外线 指数 多少	m q ns n n r	TIME TIME LOCATION O O O
+下周 厦门 紫外线 指数 多少	t ns n n r	TIME LOCATION O O O
+今天 紫外线 强 吗	t n a y	TIME O O O
+未来 两 天 的 紫外线 指数 是 多少	t m q u n n v r	TIME TIME TIME O O O O O
+今天 南京 紫外线 指数 多少	t ns n n r	TIME LOCATION O O O
+2天 厦门 的 紫外线 指数 是 多少	nr ns u n n v r	TIME LOCATION O O O O O
+下周 紫外线 强 吗	t n a y	TIME O O O
+下周 本地 紫外线 强 吗	t r n a y	TIME LOCATION O O O
+四月 十 号 深圳 紫外线 指数 多少	t m q ns n n r	TIME TIME TIME LOCATION O O O
+四月 十 号 深圳 紫外线 指数 多少	t m q ns n n r	TIME TIME TIME LOCATION O O O
+7月8 号 的 紫外线 指数 是 多少	m q u n n v r	TIME TIME O O O O O
+后天 的 紫外线 指数 是 多少	n u n n v r	TIME O O O O O
+7月8 号 的 紫外线 指数 是 多少	m q u n n v r	TIME TIME O O O O O
+7月8 号 成都 的 紫外线 指数 是 多少	m q ns u n n v r	TIME TIME LOCATION O O O O O
+未来 两 天 紫外线 强 吗	t m q n a y	TIME TIME TIME O O O
+四月 十日 天津 紫外线 指数 多少	t t ns n n r	TIME TIME LOCATION O O O
+五 天 天津 紫外线 指数 多少	m q ns n n r	TIME TIME LOCATION O O O
+天津 紫外线 指数 多少	ns n n r	LOCATION O O O
+下周 厦门 紫外线 强 吗	t ns n a y	TIME LOCATION O O O
+明天 本地 紫外线 指数 多少	t r n n r	TIME LOCATION O O O
+未来 3 天 紫外线 强 吗	t m q n a y	TIME TIME TIME O O O
+五 天 成都 紫外线 指数 多少	m q ns n n r	TIME TIME LOCATION O O O
+未来 两 天 广州 紫外线 强 吗	t m q ns n a y	TIME TIME TIME LOCATION O O O
+今天 天津 的 紫外线 指数 是 多少	t ns u n n v r	TIME LOCATION O O O O O
+五 天 成都 紫外线 强 吗	m q ns n a y	TIME TIME LOCATION O O O
+下周 广州 紫外线 指数 多少	t ns n n r	TIME LOCATION O O O
+7月8 号 上海 的 紫外线 指数 是 多少	m q ns u n n v r	TIME TIME LOCATION O O O O O
+2天 本地 的 紫外线 指数 是 多少	nr r u n n v r	TIME LOCATION O O O O O
+紫外线 指数 是 多少 2天 成都	n n v r nr ns	O O O O TIME LOCATION
+紫外线 指数 是 多少 本地	n n v r r	O O O O LOCATION
+紫外线 指数 是 多少 2天 广州	n n v r nr ns	O O O O TIME LOCATION
+紫外线 指数 是 多少 下周 重庆	n n v r t ns	O O O O TIME LOCATION
+紫外线 指数 多少 2天 上海	n n r nr ns	O O O TIME LOCATION
+紫外线 指数 是 多少 下周 福州	n n v r t ns	O O O O TIME LOCATION
+紫外线 指数 多少 未来 3 天 长沙	n n r t m q ns	O O O TIME TIME TIME LOCATION
+紫外线 强 吗 未来 3 天	n a y t m q	O O O TIME TIME TIME
+紫外线 强 吗 未来 3 天 上海	n a y t m q ns	O O O TIME TIME TIME LOCATION
+紫外线 指数 多少 明天 北京	n n r t ns	O O O TIME LOCATION
+黄金瞳 的 主演 是 谁	nr u n v r	TITLE O O O O
+怒晴湘西 的 主演 是 谁	nz u n v r	TITLE O O O O
+皓镧传 的 主演 是 谁	nz u n v r	TITLE O O O O
+独孤 皇后 的 主演 是 谁	n n u n v r	TITLE TITLE O O O O
+知否知否应是绿肥红瘦 的 主演 是 谁	nz u n v r	TITLE O O O O
+逆流 而 上 的 你 的 主演 是 谁	n c f u r u n v r	TITLE TITLE TITLE TITLE TITLE O O O O
+招摇 的 主演 是 谁	v u n v r	TITLE O O O O
+鬼吹灯 的 主演 是 谁	n u n v r	TITLE O O O O
+小女花不弃 的 主演 是 谁	nz u n v r	TITLE O O O O
+地久天长 的 主演 是 谁	nz u n v r	TITLE O O O O
+斗破苍穹 的 主演 是 谁	nz u n v r	TITLE O O O O
+天下无诈 的 主演 是 谁	nz u n v r	TITLE O O O O
+逆 水寒 的 主演 是 谁	vg nr u n v r	TITLE TITLE O O O O
+我在大理寺当宠物 的 主演 是 谁	nz u n v r	TITLE O O O O
+一吻定情 的 主演 是 谁	nz u n v r	TITLE O O O O
+红楼梦 的 主演 是 谁	nz u n v r	TITLE O O O O
+天眼 的 主演 是 谁	nz u n v r	TITLE O O O O
+香蜜沉沉烬如霜 的 主演 是 谁	nz u n v r	TITLE O O O O
+延禧攻略 的 主演 是 谁	nz u n v r	TITLE O O O O
+如懿传 的 主演 是 谁	nz u n v r	TITLE O O O O
+微微一笑很倾城 的 主演 是 谁	nz u n v r	TITLE O O O O
+武动乾坤 的 主演 是 谁	nz u n v r	TITLE O O O O
+十年三月三十日 的 主演 是 谁	nz u n v r	TITLE O O O O
+触及 真心 的 主演 是 谁	v n u n v r	TITLE TITLE O O O O
+镇魂 的 主演 是 谁	nz u n v r	TITLE O O O O
+步步惊心 的 主演 是 谁	nz u n v r	TITLE O O O O
+爱情公寓 的 主演 是 谁	nz u n v r	TITLE O O O O
+父母爱情 的 主演 是 谁	nz u n v r	TITLE O O O O
+大江 大 河 的 主演 是 谁	nr a n u n v r	TITLE TITLE TITLE O O O O
+古董局中局 的 主演 是 谁	nz u n v r	TITLE O O O O
+琅琊榜 的 主演 是 谁	nz u n v r	TITLE O O O O
+神雕侠侣 的 主演 是 谁	nz u n v r	TITLE O O O O
+秦始皇 的 主演 是 谁	nz u n v r	TITLE O O O O
+射雕英雄传 的 主演 是 谁	nz u n v r	TITLE O O O O
+天衣无缝 的 主演 是 谁	nz u n v r	TITLE O O O O
+三生三世十里桃花 的 主演 是 谁	nz u n v r	TITLE O O O O
+猫和老鼠 的 主演 是 谁	nz u n v r	TITLE O O O O
+我爱我家 的 主演 是 谁	nz u n v r	TITLE O O O O
+人民的名义 的 主演 是 谁	nz u n v r	TITLE O O O O
+天龙八部 的 主演 是 谁	nz u n v r	TITLE O O O O
+白夜追凶 的 主演 是 谁	nz u n v r	TITLE O O O O
+倚天屠龙记 的 主演 是 谁	nz u n v r	TITLE O O O O
+我的奇妙男友 的 主演 是 谁	nz u n v r	TITLE O O O O
+水浒传 的 主演 是 谁	nz u n v r	TITLE O O O O
+请回答1988 的 主演 是 谁	nz u n v r	TITLE O O O O
+笑傲江湖 的 主演 是 谁	nz u n v r	TITLE O O O O
+惊蛰 的 主演 是 谁	nr u n v r	TITLE O O O O
+将夜 的 主演 是 谁	nz u n v r	TITLE O O O O
+甄嬛传 的 主演 是 谁	nz u n v r	TITLE O O O O
+盗墓笔记 的 主演 是 谁	nz u n v r	TITLE O O O O
+皇后 的 品格 的 主演 是 谁	n u n u n v r	TITLE TITLE TITLE O O O O
+仙剑奇侠传3 的 主演 是 谁	nz u n v r	TITLE O O O O
+都 挺 好 的 主演 是 谁	d d a u n v r	TITLE TITLE TITLE O O O O
+破冰行动 的 主演 是 谁	nz u n v r	TITLE O O O O
+如果可以这样爱 的 主演 是 谁	nz u n v r	TITLE O O O O
+听雪楼 的 主演 是 谁	nz u n v r	TITLE O O O O
+夜空中最闪亮的星 的 主演 是 谁	nz u n v r	TITLE O O O O
+导演 对 我 下手 了 的 主演 是 谁	n p r v y u n v r	TITLE TITLE TITLE TITLE TITLE O O O O
+空中客车 股票	n n	COMPANY O
+阿里 股票	n n	COMPANY O
+通用 电气 股票	nz n n	COMPANY COMPANY O
+联合 健康 股票	v an n	COMPANY COMPANY O
+中国移动 通信 股票	n vn n	COMPANY COMPANY O
+engie 股票	nx n	COMPANY O
+州立 农业 保险 股票	b n n n	COMPANY COMPANY COMPANY O
+中国 农业 银行 股票	ns n n n	COMPANY COMPANY COMPANY O
+道达尔 股票	nr n	COMPANY O
+百度 股票	nz n	COMPANY O
+太平洋 建设 股票	ns vn n	COMPANY COMPANY O
+意大利 忠利 保险 股票	ns n n n	COMPANY COMPANY COMPANY O
+大众 股票	n n	COMPANY O
+日本 邮政 控股 股票	ns n vn n	COMPANY COMPANY COMPANY O
+engie 股票	nx n	COMPANY O
+荷兰 皇家 壳牌 石油 股票	ns n n n n	COMPANY COMPANY COMPANY COMPANY O
+埃尼 石油 股票	nr n n	COMPANY COMPANY O
+丰田 汽车 股票	nz n n	COMPANY COMPANY O
+美国 电话 电报 股票	ns n n n	COMPANY COMPANY COMPANY O
+cvs   health 股票	nx w nz n	COMPANY COMPANY COMPANY O
+苹果 股票	nz n	COMPANY O
+太平洋 建设 股票	ns vn n	COMPANY COMPANY O
+微软 股票	nt n	COMPANY O
+美团 股票	nt n	COMPANY O
+中国工商银行 股票	nz n	COMPANY O
+美国 富 国 银行 股票	ns vg n n n	COMPANY COMPANY COMPANY COMPANY O
+大众 股票	n n	COMPANY O
+瓦莱罗 能源 股票	nr n n	COMPANY COMPANY O
+宝马 股票	nz n	COMPANY O
+家得宝 股票	n n	COMPANY O

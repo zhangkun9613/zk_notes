@@ -1,0 +1,14 @@
+{
+  "max_steps": 600,
+  "learning_rate": 0.001,
+  "pos_embedding_size": 100,
+  "max_seq_len": 20,
+  "max_pool_size": 4,
+  "num_filters": 128,
+  "num_hidden_units": 300,
+  "train_dropout_keep_prob": 0.6,
+  "batch_size": 50,
+  "dropout_keep_prob": 0.3,
+  "word_embedding_size": 300,
+  "fasttext_model": "/work/ml/wordvectors/zh.bin"
+}
